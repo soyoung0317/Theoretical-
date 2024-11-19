@@ -129,6 +129,25 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="_casting.txt" />
+    <Text Include="_L-Value vs R-Value.txt" />
+    <Text Include="vector.txt" />
+    <Text Include="_call by value.txt" />
+    <Text Include="_explicit.txt" />
+    <Text Include="_new와 malloc.txt" />
+    <Text Include="RTTI.txt" />
+    <Text Include="_이동생성자.txt" />
+    <Text Include="인터페이스_다중상속.txt" />
+    <Text Include="SOLID 원칙.txt" />
+    <Text Include="C++에 대하여.txt" />
+    <Text Include="컴파일 과정 총정리.txt" />
+    <Text Include="_Mutable.txt" />
+    <Text Include="_전방선언.txt" />
+    <Text Include="_전처리문.txt" />
+    <Text Include="_리스트 뒤집기.txt" />
+    <Text Include="list.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

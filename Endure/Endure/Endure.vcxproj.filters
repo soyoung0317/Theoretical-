@@ -23,4 +23,57 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="인터페이스_다중상속.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="SOLID 원칙.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="C++에 대하여.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="컴파일 과정 총정리.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="RTTI.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_explicit.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_Mutable.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_new와 malloc.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_전방선언.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_전처리문.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_call by value.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_리스트 뒤집기.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="vector.txt">
+      <Filter>STL</Filter>
+    </Text>
+    <Text Include="list.txt">
+      <Filter>STL</Filter>
+    </Text>
+    <Text Include="_이동생성자.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_L-Value vs R-Value.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_casting.txt">
+      <Filter>C++</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

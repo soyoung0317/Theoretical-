@@ -35,4 +35,8 @@
 *.out
 *.app
 
+# text»ç¿ë
+*.ipch 
+*.sdf
+
 # End of https://www.toptal.com/developers/gitignore/api/c++
