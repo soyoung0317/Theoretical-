@@ -11,9 +11,6 @@
     <Filter Include="STL">
       <UniqueIdentifier>{19a12cc3-22ff-41f7-bfda-9c2b18c9cc3b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Data_Struct">
-      <UniqueIdentifier>{f8aa6e32-6f4d-4ad5-986e-088c846feeb4}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Network">
       <UniqueIdentifier>{7fc8afa7-19fa-4cc0-b690-ed14051d8ef9}</UniqueIdentifier>
     </Filter>
@@ -33,19 +30,19 @@
     <Text Include="C++에 대하여.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="컴파일 과정 총정리.txt">
+    <Text Include="컴파일 과정.txt">
       <Filter>C++</Filter>
     </Text>
     <Text Include="RTTI.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="_explicit.txt">
+    <Text Include="explicit.txt">
       <Filter>C++</Filter>
     </Text>
     <Text Include="_Mutable.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="_new와 malloc.txt">
+    <Text Include="new와 malloc.txt">
       <Filter>C++</Filter>
     </Text>
     <Text Include="_전방선언.txt">
@@ -54,10 +51,10 @@
     <Text Include="_전처리문.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="_call by value.txt">
+    <Text Include="call by value.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="_리스트 뒤집기.txt">
+    <Text Include="리스트 뒤집기.txt">
       <Filter>C++</Filter>
     </Text>
     <Text Include="vector.txt">
@@ -66,13 +63,46 @@
     <Text Include="list.txt">
       <Filter>STL</Filter>
     </Text>
-    <Text Include="_이동생성자.txt">
+    <Text Include="이동생성자.txt">
       <Filter>C++</Filter>
     </Text>
     <Text Include="_L-Value vs R-Value.txt">
       <Filter>C++</Filter>
     </Text>
     <Text Include="_casting.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="실수형 데이터.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="static.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="오버로딩과 오버라이딩.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="array.txt">
+      <Filter>STL</Filter>
+    </Text>
+    <Text Include="que.txt">
+      <Filter>STL</Filter>
+    </Text>
+    <Text Include="map.txt">
+      <Filter>STL</Filter>
+    </Text>
+    <Text Include="STL기본.txt">
+      <Filter>STL</Filter>
+    </Text>
+    <Text Include="_깊은복사와 얕은복사.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="_함수호출과정.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="생성자와 소멸자.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="객체지향 프로그래밍.txt">
       <Filter>C++</Filter>
     </Text>
   </ItemGroup>

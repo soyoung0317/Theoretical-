@@ -1,8 +1,10 @@
 Q. Casting에 대해 설명하시오
+
+Q. dynamic_cast와 static_cast의 차이점은 무엇인가요?
+
 A. (24.11.19)
 	캐스팅은 일종의 형변환으로 dynamic_cast, static_cast, const_cast, reinterpret_cast가 있습니다. 
 
 
-Q. dynamic_cast와 static_cast의 차이점은 무엇인가요?
 A. (24.11.19)
 	
