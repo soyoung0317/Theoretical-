@@ -1,10 +1,35 @@
 Q. Casting에 대해 설명하시오
 
-Q. dynamic_cast와 static_cast의 차이점은 무엇인가요?
+Q. const-cast와 mutable의 차이는 뭡니까 ?
+
+----------------------- 가림막
 
 A. (24.11.19)
 	캐스팅은 일종의 형변환으로 dynamic_cast, static_cast, const_cast, reinterpret_cast가 있습니다. 
 
+	reinterpret_cast의경우 서로 관련없는 포인터 타입간 변환이 필요할때 사용합니다. 
+	예를들어, void* 에서 특정 타입 포인터로 변환할때 사용하기도 하는데, 
+	저는 프로젝트에서 
 
-A. (24.11.19)
-	
+	const cast는 const의 속성을 제거하거나 추가하는데 사용합니다. 
+	예를들어, 동일한 이름의 함수가 const함수, non-const함수로 오버로드 된 경우, const_cast를 통해 const가 없는 함수를 호출할 수 있기도 합니다. 	
+
+
+	[참고]
+class Example {
+public:
+    void show() const {
+        std::cout << "const show" << std::endl;
+    }
+    void show() {
+        std::cout << "non-const show" << std::endl;
+    }
+};
+
+void callShow(const Example& ex) {
+    const_cast<Example&>(ex).show();  // const 버전 대신 비-const 버전 호출
+}
+
+A. (24.11.21)
+	mutable의경우 변수자체가 const인것이 아니라 const객체 내에서 변경 가능할 수 있다는 변경가능이라는 속성이고 
+	const_cast의경우 객체의 const속성을 수정해버리는것을 의미합니다.

@@ -39,16 +39,16 @@
     <Text Include="explicit.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="_Mutable.txt">
+    <Text Include="Mutable.txt">
       <Filter>C++</Filter>
     </Text>
     <Text Include="new와 malloc.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="_전방선언.txt">
+    <Text Include="전방선언.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="_전처리문.txt">
+    <Text Include="전처리문.txt">
       <Filter>C++</Filter>
     </Text>
     <Text Include="call by value.txt">
@@ -81,9 +81,6 @@
     <Text Include="오버로딩과 오버라이딩.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="array.txt">
-      <Filter>STL</Filter>
-    </Text>
     <Text Include="que.txt">
       <Filter>STL</Filter>
     </Text>
@@ -96,7 +93,7 @@
     <Text Include="_깊은복사와 얕은복사.txt">
       <Filter>C++</Filter>
     </Text>
-    <Text Include="_함수호출과정.txt">
+    <Text Include="함수호출과정.txt">
       <Filter>C++</Filter>
     </Text>
     <Text Include="생성자와 소멸자.txt">
@@ -104,6 +101,12 @@
     </Text>
     <Text Include="객체지향 프로그래밍.txt">
       <Filter>C++</Filter>
+    </Text>
+    <Text Include="매크로와 인라인.txt">
+      <Filter>C++</Filter>
+    </Text>
+    <Text Include="해시테이블.txt">
+      <Filter>STL</Filter>
     </Text>
   </ItemGroup>
 </Project>

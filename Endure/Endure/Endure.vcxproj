@@ -140,6 +140,7 @@
     <Text Include="new와 malloc.txt" />
     <Text Include="RTTI.txt" />
     <Text Include="_깊은복사와 얕은복사.txt" />
+    <Text Include="매크로와 인라인.txt" />
     <Text Include="생성자와 소멸자.txt" />
     <Text Include="실수형 데이터.txt" />
     <Text Include="이동생성자.txt" />
@@ -148,16 +149,16 @@
     <Text Include="SOLID 원칙.txt" />
     <Text Include="C++에 대하여.txt" />
     <Text Include="컴파일 과정.txt" />
-    <Text Include="_Mutable.txt" />
-    <Text Include="_전방선언.txt" />
-    <Text Include="_전처리문.txt" />
+    <Text Include="Mutable.txt" />
+    <Text Include="전방선언.txt" />
+    <Text Include="전처리문.txt" />
     <Text Include="리스트 뒤집기.txt" />
     <Text Include="list.txt" />
-    <Text Include="array.txt" />
     <Text Include="que.txt" />
     <Text Include="map.txt" />
-    <Text Include="_함수호출과정.txt" />
+    <Text Include="함수호출과정.txt" />
     <Text Include="객체지향 프로그래밍.txt" />
+    <Text Include="해시테이블.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
