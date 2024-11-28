@@ -3,68 +3,160 @@
   "WorkspaceRootPath": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\que.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\que.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\vector.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_STL\\vector.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uD574\uC2DC\uD14C\uC774\uBE14.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\\uD574\uC2DC\uD14C\uC774\uBE14.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\map.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\map.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\vector.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\vector.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_STL\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\STL\uAE30\uBCF8.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\STL\uAE30\uBCF8.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uAD6C\uC870\uCCB4 \uD074\uB798\uC2A4.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\\uAD6C\uC870\uCCB4 \uD074\uB798\uC2A4.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\C\u002B\u002B\uC5D0 \uB300\uD558\uC5EC.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\C\u002B\u002B\uC5D0 \uB300\uD558\uC5EC.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\99._CODE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\99._CODE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD574\uC2DC\uD14C\uC774\uBE14.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\\uD574\uC2DC\uD14C\uC774\uBE14.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_emplace\uC640 push.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\_emplace\uC640 push.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\array.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_STL\\array.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Mutable.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\Mutable.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_\uBE44\uAD50.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\_\uBE44\uAD50.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uC804\uCC98\uB9AC\uBB38.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\\uC804\uCC98\uB9AC\uBB38.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\STL.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_TOTAL\\STL.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uC804\uBC29\uC120\uC5B8.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\\uC804\uBC29\uC120\uC5B8.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_L-Value vs R-Value.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\_L-Value vs R-Value.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\_\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_casting.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\_casting.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_\uD3EC\uC778\uD130.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\_\uD3EC\uC778\uD130.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uD568\uC218\uAC1D\uCCB4.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\_\uD568\uC218\uAC1D\uCCB4.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uD568\uC218\uD3EC\uC778\uD130.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\_\uD568\uC218\uD3EC\uC778\uD130.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\new\uC640 malloc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\new\uC640 malloc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uBC14\uC778\uB529.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\_\uBC14\uC778\uB529.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uCE90\uC2A4\uD305.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\\uCE90\uC2A4\uD305.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC804\uBC29\uC120\uC5B8.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\\uC804\uBC29\uC120\uC5B8.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\memcpy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\memcpy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uBC84\uD37C\uC624\uBC84\uD50C\uB85C\uC6B0.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\_\uBC84\uD37C\uC624\uBC84\uD50C\uB85C\uC6B0.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_this.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\_this.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_volatile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\_volatile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uB78C\uB2E4\uC2DD.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\_\uB78C\uB2E4\uC2DD.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\SOLID \uC6D0\uCE59.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\SOLID \uC6D0\uCE59.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_auto.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\_auto.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\extern.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\extern.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\static.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\static.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\call by value.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\call by value.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\mutable.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\mutable.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\que.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_STL\\que.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\map.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_STL\\map.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\_\uC774\uB3D9.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_STL\\_\uC774\uB3D9.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CS\\_\uAC00\uC0C1\uBA54\uBAA8\uB9AC.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CS\\_\uAC00\uC0C1\uBA54\uBAA8\uB9AC.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\CC\u002B\u002B.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_TOTAL\\CC\u002B\u002B.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\Network.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_TOTAL\\Network.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\Algorithm.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_TOTAL\\Algorithm.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,215 +166,481 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uD574\uC2DC\uD14C\uC774\uBE14.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uD574\uC2DC\uD14C\uC774\uBE14.txt",
-              "RelativeDocumentMoniker": "Endure\\\uD574\uC2DC\uD14C\uC774\uBE14.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uD574\uC2DC\uD14C\uC774\uBE14.txt",
-              "RelativeToolTip": "Endure\\\uD574\uC2DC\uD14C\uC774\uBE14.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T23:25:52.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "map.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\map.txt",
-              "RelativeDocumentMoniker": "Endure\\map.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\map.txt",
-              "RelativeToolTip": "Endure\\map.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T23:24:28.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "que.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\que.txt",
-              "RelativeDocumentMoniker": "Endure\\que.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\que.txt",
-              "RelativeToolTip": "Endure\\que.txt",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T23:24:03.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "list.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\list.txt",
-              "RelativeDocumentMoniker": "Endure\\list.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\list.txt",
-              "RelativeToolTip": "Endure\\list.txt",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T22:30:05.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "vector.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\vector.txt",
-              "RelativeDocumentMoniker": "Endure\\vector.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\vector.txt",
-              "RelativeToolTip": "Endure\\vector.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\vector.txt",
+              "RelativeDocumentMoniker": "TXT_STL\\vector.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\vector.txt",
+              "RelativeToolTip": "TXT_STL\\vector.txt",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T22:30:03.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "STL\uAE30\uBCF8.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\STL\uAE30\uBCF8.txt",
-              "RelativeDocumentMoniker": "Endure\\STL\uAE30\uBCF8.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\STL\uAE30\uBCF8.txt",
-              "RelativeToolTip": "Endure\\STL\uAE30\uBCF8.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T20:56:19.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
-              "RelativeDocumentMoniker": "Endure\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
-              "RelativeToolTip": "Endure\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T20:34:12.216Z",
+              "WhenOpened": "2024-11-27T23:49:05.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "\uC804\uCC98\uB9AC\uBB38.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uC804\uCC98\uB9AC\uBB38.txt",
-              "RelativeDocumentMoniker": "Endure\\\uC804\uCC98\uB9AC\uBB38.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uC804\uCC98\uB9AC\uBB38.txt",
-              "RelativeToolTip": "Endure\\\uC804\uCC98\uB9AC\uBB38.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "_\uD3EC\uC778\uD130.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_\uD3EC\uC778\uD130.txt",
+              "RelativeDocumentMoniker": "Endure\\_\uD3EC\uC778\uD130.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_\uD3EC\uC778\uD130.txt",
+              "RelativeToolTip": "Endure\\_\uD3EC\uC778\uD130.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T20:08:48.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T23:33:21.976Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "_casting.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_casting.txt",
-              "RelativeDocumentMoniker": "Endure\\_casting.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_casting.txt",
-              "RelativeToolTip": "Endure\\_casting.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Title": "\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\\uB9E4\uD06C\uB85C\uC640 \uC778\uB77C\uC778.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T19:46:59.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T23:27:59.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
-              "RelativeDocumentMoniker": "Endure\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
-              "RelativeToolTip": "Endure\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
+              "DocumentIndex": 16,
+              "Title": "new\uC640 malloc.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\new\uC640 malloc.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\new\uC640 malloc.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\new\uC640 malloc.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\new\uC640 malloc.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T19:46:55.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T23:27:57.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "C\u002B\u002B\uC5D0 \uB300\uD558\uC5EC.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\C\u002B\u002B\uC5D0 \uB300\uD558\uC5EC.txt",
-              "RelativeDocumentMoniker": "Endure\\C\u002B\u002B\uC5D0 \uB300\uD558\uC5EC.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\C\u002B\u002B\uC5D0 \uB300\uD558\uC5EC.txt",
-              "RelativeToolTip": "Endure\\C\u002B\u002B\uC5D0 \uB300\uD558\uC5EC.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 17,
+              "Title": "_\uBC14\uC778\uB529.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uBC14\uC778\uB529.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_\uBC14\uC778\uB529.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uBC14\uC778\uB529.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\_\uBC14\uC778\uB529.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T19:44:22.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T23:27:16.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "\uC804\uBC29\uC120\uC5B8.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uC804\uBC29\uC120\uC5B8.txt",
-              "RelativeDocumentMoniker": "Endure\\\uC804\uBC29\uC120\uC5B8.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uC804\uBC29\uC120\uC5B8.txt",
-              "RelativeToolTip": "Endure\\\uC804\uBC29\uC120\uC5B8.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "\uAD6C\uC870\uCCB4 \uD074\uB798\uC2A4.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uAD6C\uC870\uCCB4 \uD074\uB798\uC2A4.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uAD6C\uC870\uCCB4 \uD074\uB798\uC2A4.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uAD6C\uC870\uCCB4 \uD074\uB798\uC2A4.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\\uAD6C\uC870\uCCB4 \uD074\uB798\uC2A4.txt",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvywAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T19:44:21.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Mutable.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Mutable.txt",
-              "RelativeDocumentMoniker": "Endure\\Mutable.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Mutable.txt",
-              "RelativeToolTip": "Endure\\Mutable.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T19:34:47.3Z",
+              "WhenOpened": "2024-11-27T22:48:47.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "_L-Value vs R-Value.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_L-Value vs R-Value.txt",
-              "RelativeDocumentMoniker": "Endure\\_L-Value vs R-Value.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_L-Value vs R-Value.txt",
-              "RelativeToolTip": "Endure\\_L-Value vs R-Value.txt",
+              "Title": "_\uD568\uC218\uD3EC\uC778\uD130.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uD568\uC218\uD3EC\uC778\uD130.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_\uD568\uC218\uD3EC\uC778\uD130.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uD568\uC218\uD3EC\uC778\uD130.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\_\uD568\uC218\uD3EC\uC778\uD130.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T19:34:45.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T20:20:51.394Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "\uD574\uC2DC\uD14C\uC774\uBE14.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD574\uC2DC\uD14C\uC774\uBE14.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uD574\uC2DC\uD14C\uC774\uBE14.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD574\uC2DC\uD14C\uC774\uBE14.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\\uD574\uC2DC\uD14C\uC774\uBE14.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T04:08:09.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "STL.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\STL.txt",
+              "RelativeDocumentMoniker": "TXT_TOTAL\\STL.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\STL.txt",
+              "RelativeToolTip": "TXT_TOTAL\\STL.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T01:17:31.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_emplace\uC640 push.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_emplace\uC640 push.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_emplace\uC640 push.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_emplace\uC640 push.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\_emplace\uC640 push.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:23:34.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\list.txt",
+              "RelativeDocumentMoniker": "TXT_STL\\list.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\list.txt",
+              "RelativeToolTip": "TXT_STL\\list.txt",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:23:05.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "99._CODE.cpp",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\99._CODE.cpp",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\99._CODE.cpp",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\99._CODE.cpp",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\99._CODE.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T20:23:59.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Main.cpp",
               "RelativeDocumentMoniker": "Endure\\Main.cpp",
               "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Main.cpp",
               "RelativeToolTip": "Endure\\Main.cpp",
-              "ViewState": "AQIAAAEAAAAAAAAAAADwvxoAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-20T19:30:25.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
-              "RelativeDocumentMoniker": "Endure\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
-              "RelativeToolTip": "Endure\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "DocumentIndex": 10,
+              "Title": "_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\_\uAE4A\uC740\uBCF5\uC0AC\uC640 \uC595\uC740\uBCF5\uC0AC.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-20T20:51:04.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T23:40:58.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_\uBE44\uAD50.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_\uBE44\uAD50.txt",
+              "RelativeDocumentMoniker": "Endure\\_\uBE44\uAD50.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_\uBE44\uAD50.txt",
+              "RelativeToolTip": "Endure\\_\uBE44\uAD50.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T23:46:38.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "array.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\array.txt",
+              "RelativeDocumentMoniker": "TXT_STL\\array.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\array.txt",
+              "RelativeToolTip": "TXT_STL\\array.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:23:03.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "\uC804\uBC29\uC120\uC5B8.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC804\uBC29\uC120\uC5B8.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC804\uBC29\uC120\uC5B8.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC804\uBC29\uC120\uC5B8.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\\uC804\uBC29\uC120\uC5B8.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T23:22:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "memcpy.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\memcpy.txt",
+              "RelativeDocumentMoniker": "Endure\\memcpy.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\memcpy.txt",
+              "RelativeToolTip": "Endure\\memcpy.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T23:15:51.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_\uBC84\uD37C\uC624\uBC84\uD50C\uB85C\uC6B0.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uBC84\uD37C\uC624\uBC84\uD50C\uB85C\uC6B0.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_\uBC84\uD37C\uC624\uBC84\uD50C\uB85C\uC6B0.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uBC84\uD37C\uC624\uBC84\uD50C\uB85C\uC6B0.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\_\uBC84\uD37C\uC624\uBC84\uD50C\uB85C\uC6B0.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:21:38.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_this.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_this.txt",
+              "RelativeDocumentMoniker": "Endure\\_this.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_this.txt",
+              "RelativeToolTip": "Endure\\_this.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T23:17:57.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\_\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T01:17:50.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_\uD568\uC218\uAC1D\uCCB4.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uD568\uC218\uAC1D\uCCB4.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_\uD568\uC218\uAC1D\uCCB4.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uD568\uC218\uAC1D\uCCB4.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\_\uD568\uC218\uAC1D\uCCB4.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:19:48.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_auto.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_auto.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_auto.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_auto.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\_auto.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T04:09:03.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "static.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\static.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\static.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\static.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\static.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T01:17:52.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_\uC774\uB3D9.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\_\uC774\uB3D9.txt",
+              "RelativeDocumentMoniker": "TXT_STL\\_\uC774\uB3D9.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\_\uC774\uB3D9.txt",
+              "RelativeToolTip": "TXT_STL\\_\uC774\uB3D9.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:23:04.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "\uCE90\uC2A4\uD305.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uCE90\uC2A4\uD305.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uCE90\uC2A4\uD305.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uCE90\uC2A4\uD305.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\\uCE90\uC2A4\uD305.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:20:30.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "map.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\map.txt",
+              "RelativeDocumentMoniker": "TXT_STL\\map.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\map.txt",
+              "RelativeToolTip": "TXT_STL\\map.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:23:06.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "que.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\que.txt",
+              "RelativeDocumentMoniker": "TXT_STL\\que.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\que.txt",
+              "RelativeToolTip": "TXT_STL\\que.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:23:06.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_\uB78C\uB2E4\uC2DD.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uB78C\uB2E4\uC2DD.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_\uB78C\uB2E4\uC2DD.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_\uB78C\uB2E4\uC2DD.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\_\uB78C\uB2E4\uC2DD.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:19:41.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_volatile.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_volatile.txt",
+              "RelativeDocumentMoniker": "Endure\\_volatile.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\_volatile.txt",
+              "RelativeToolTip": "Endure\\_volatile.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T20:24:42.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SOLID \uC6D0\uCE59.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\SOLID \uC6D0\uCE59.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\SOLID \uC6D0\uCE59.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\SOLID \uC6D0\uCE59.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\SOLID \uC6D0\uCE59.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T20:16:32.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "extern.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\extern.txt",
+              "RelativeDocumentMoniker": "Endure\\extern.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\extern.txt",
+              "RelativeToolTip": "Endure\\extern.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T20:36:46.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\\uD568\uC218\uD638\uCD9C\uACFC\uC815.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T04:08:10.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "mutable.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\mutable.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\mutable.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\mutable.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\mutable.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T01:17:52.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "call by value.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\call by value.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\call by value.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\call by value.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\call by value.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T01:17:51.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Network.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\Network.txt",
+              "RelativeDocumentMoniker": "TXT_TOTAL\\Network.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\Network.txt",
+              "RelativeToolTip": "TXT_TOTAL\\Network.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T01:17:31.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CC\u002B\u002B.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\CC\u002B\u002B.txt",
+              "RelativeDocumentMoniker": "TXT_TOTAL\\CC\u002B\u002B.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\CC\u002B\u002B.txt",
+              "RelativeToolTip": "TXT_TOTAL\\CC\u002B\u002B.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T01:17:31.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Algorithm.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\Algorithm.txt",
+              "RelativeDocumentMoniker": "TXT_TOTAL\\Algorithm.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\Algorithm.txt",
+              "RelativeToolTip": "TXT_TOTAL\\Algorithm.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T01:17:30.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_\uAC00\uC0C1\uBA54\uBAA8\uB9AC.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CS\\_\uAC00\uC0C1\uBA54\uBAA8\uB9AC.txt",
+              "RelativeDocumentMoniker": "TXT_CS\\_\uAC00\uC0C1\uBA54\uBAA8\uB9AC.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CS\\_\uAC00\uC0C1\uBA54\uBAA8\uB9AC.txt",
+              "RelativeToolTip": "TXT_CS\\_\uAC00\uC0C1\uBA54\uBAA8\uB9AC.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T01:17:05.776Z"
             }
           ]
         }
