@@ -1,0 +1,73 @@
+Q. friend키워드에 대해 설명하시오 
+
+-------------------------------------------------------
+Q.	friend키워드에 대해 설명하시오 
+A.	정의 
+		: 특정 클래스 또는 함수가 다른 클래스의 비공개(private) 또는 보호(protected) 멤버에 접근할 수 있도록 허용하는 키워드입니다.
+		: 캡슐화(encapsulation)를 유지하면서도, 특정 클래스나 함수에서 내부 데이터를 사용할 수 있게 설계할 때 사용됩니다.
+
+	왜 사용하는가?
+		1. 캡슐화와 유연성의 조화
+			클래스의 비공개 멤버에 직접 접근해야 하는 외부 함수나 클래스가 있을 때, getter/setter를 사용하지 않고도 접근할 수 있도록 합니다.
+		2. 외부 연산의 필요성
+			두 클래스 간 연산을 정의하거나, 클래스 외부에서 복잡한 연산을 수행할 때 비공개 데이터를 참조해야 할 경우 유용합니다.
+		3. 특정 연산자 오버로딩
+			연산자 오버로딩을 구현할 때, friend를 통해 클래스의 비공개 데이터에 접근하여 쉽게 연산을 정의할 수 있습니다.
+
+	특징
+		캡슐화 위반 가능성 : friend를 잘못 사용하면 클래스의 캡슐화 원칙이 훼손될 수 있음.
+		선언 위치 : friend는 선언된 클래스 내에 정의되지만, 외부 함수처럼 동작함.
+		한 방향 관계 : A가 B를 친구로 지정했을 때, B는 A의 멤버에 접근 가능하지만 반대는 아님.
+		범위 제한 없음 : friend는 클래스 내부 및 외부에서 자유롭게 정의 가능.
+
+	예시코드
+		1. friend함수
+			#include <iostream>
+			class MyClass {
+			private:
+			    int value;
+			
+			public:
+			    MyClass(int v) : value(v) {}
+			
+			    // friend 함수 선언
+			    friend void showValue(const MyClass& obj);
+			};
+			
+			// friend 함수 정의
+			void showValue(const MyClass& obj) {
+			    std::cout << "Value: " << obj.value << std::endl;
+			}
+			
+			int main() {
+			    MyClass obj(42);
+			    showValue(obj); // 비공개 멤버에 접근 가능
+			    return 0;
+			}
+
+		2. friend클래스 
+			#include <iostream>
+			class MyClass {
+			private:
+			    int value;
+			
+			public:
+			    MyClass(int v) : value(v) {}
+			
+			    // Friend 클래스 선언
+			    friend class FriendClass;
+			};
+			
+			class FriendClass {
+			public:
+			    void display(const MyClass& obj) {
+			        std::cout << "Value: " << obj.value << std::endl; // 비공개 멤버 접근 가능
+			    }
+			};
+			
+			int main() {
+			    MyClass obj(42);
+			    FriendClass friendObj;
+			    friendObj.display(obj);
+			    return 0;
+			}

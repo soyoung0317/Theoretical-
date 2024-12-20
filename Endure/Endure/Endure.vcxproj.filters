@@ -81,7 +81,7 @@
     <Text Include="..\TXT_CS\_가상메모리.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\_메모리 단편화.txt">
+    <Text Include="..\TXT_CS\메모리 단편화.txt">
       <Filter>2. CS</Filter>
     </Text>
     <Text Include="..\TXT_CS\_메모리 풀.txt">
@@ -90,7 +90,7 @@
     <Text Include="..\TXT_CS\_세그먼테이션.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\바이트 저장 순서.txt">
+    <Text Include="..\TXT_CS\_바이트 저장 순서.txt">
       <Filter>2. CS</Filter>
     </Text>
     <Text Include="..\TXT_ALGORITHM\[정리] 정렬 알고리즘.txt">
@@ -246,31 +246,28 @@
     <Text Include="..\TXT_CC++\_stable sort vs soft sort.txt">
       <Filter>0. C++</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_this.txt">
+    <Text Include="..\TXT_CC++\this.txt">
       <Filter>0. C++</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_using.txt">
+    <Text Include="..\TXT_CC++\using.txt">
       <Filter>0. C++</Filter>
     </Text>
     <Text Include="..\TXT_CC++\_volatile.txt">
       <Filter>0. C++</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_가상함수.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\_개행.txt">
+    <Text Include="..\TXT_CC++\가상함수.txt">
       <Filter>0. C++</Filter>
     </Text>
     <Text Include="..\TXT_CC++\_깊은복사와 얕은복사.txt">
       <Filter>0. C++</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_람다식.txt">
+    <Text Include="..\TXT_CC++\람다식.txt">
       <Filter>0. C++</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_바인딩.txt">
+    <Text Include="..\TXT_CC++\바인딩.txt">
       <Filter>0. C++</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_버퍼오버플로우.txt">
+    <Text Include="..\TXT_CC++\_오버플로우.txt">
       <Filter>0. C++</Filter>
     </Text>
     <Text Include="..\TXT_CC++\_스마트 포인터.txt">
@@ -279,7 +276,7 @@
     <Text Include="..\TXT_CC++\_유니폼 초기화.txt">
       <Filter>0. C++</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_이동 의미론.txt">
+    <Text Include="..\TXT_CC++\이동 의미론.txt">
       <Filter>0. C++</Filter>
     </Text>
     <Text Include="..\TXT_CC++\_추상클래스.txt">
@@ -296,6 +293,18 @@
     </Text>
     <Text Include="[정리]stl 총정리.txt">
       <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\_컴퓨터 구성.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\_레지스터.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\메모리.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="friend.txt">
+      <Filter>0. C++</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,29 @@
+Q. using과 typdef에 대해 설명하시오 
+
+-------------------------------------------
+Q.	using과 typdef에 대해 설명하시오 
+A.	정의
+		1. typedef
+			기존 타입에 새로운 이름(별칭)을 정의합니다.
+			주로 긴 타입 이름을 간단하게 표현하거나, 가독성을 높이기 위해 사용됩니다.
+		2. using
+			C++11에서 도입된 키워드로, typedef와 동일한 역할을 수행하지만,
+			템플릿 문법을 더 직관적이고 유연하게 지원합니다.
+
+	using을 더 선호하는 이유
+		1. 가독성과 직관성
+			: using은 왼쪽에서 오른쪽으로 읽히는 방식으로, 타입 정의가 직관적입니다.
+			// typedef 방식
+			typedef void (*FunctionPointer)(int, double);
+			
+			// using 방식
+			using FunctionPointer = void(*)(int, double);
+
+		2. 템플릿 지원
+			: typedef는 템플릿을 포함한 타입 정의에 불편하거나, 아예 사용할 수 없습니다.
+			// typedef 방식 - 오류 발생
+			typedef vector<T> Vector; // 오류 발생
+			
+			// using 방식 - 가능
+			template <typename T>
+			using Vector = std::vector<T>; 
