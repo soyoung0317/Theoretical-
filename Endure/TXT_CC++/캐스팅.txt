@@ -1,5 +1,5 @@
 [질문 리스트]
-Q. Casting에 대해 설명하시오
+Q. 캐스팅에 대해 설명하시오
 
 Q. 형제 클래스 간의 캐스팅에 대해 설명하시오 
 
@@ -7,52 +7,103 @@ Q. const-cast와 mutable의 차이에 대해 설명하시오  ?
 
 -------------------------------------------------------
 
-Q. Casting에 대해 설명하시오
-A. 캐스팅은 자료형간 또는 포인터간 형변환시 사용되며 dynamic_cast, static_cast, const_cast, reinterpret_cast가 있습니다. 
+Q.	Casting에 대해 설명하시오
+A. 	1. 정의
+		: 특정 타입의 데이터나 객체를 다른 타입으로 해석할 수 있도록 하는 작업
+		명시적(Explicit) 캐스팅과 암시적(Implicit) 캐스팅 두 가지 방식으로 구분된다.
 
-	dynamic_cast의경우 안전한 다운캐스팅에서 사용됩니다. 
-	런타임에 타입변환이 가능한지 검사하기때문에 런타임 비용이 조금 높은 캐스트이며, 오버헤드가 발생할 수 있습니다. (virtual + 가상함수 테이블 필수 )
+	2. 사용하는 이유
+		- 타입 변환: 서로 다른 데이터 타입 간에 값을 변환하여 계산 또는 저장.
+		- 다형성 활용: 상속 관계에서 기반 클래스 포인터를 파생 클래스 포인터로 변환.
+		- 특수 목적 사용: 메모리 해석, 특정 타입의 변환 등 시스템 프로그래밍에 활용.
 
-	static_cast는 가장 기본적인 캐스팅 연산자로 컴파일 타임에 타입 변환을 수행하며, 정적 타입 변환에 사용됩니다. 
-	포인터 끼리의 변환은 허용하지 않지만 상속관계는 허용하여 업캐스팅시 사용하게됩니다. 
-	-> 형제 클래스간의 형변환 
+	3. 캐스팅 종류
+		(1) 암시적 캐스팅 (Implicit Casting)
+			컴파일러가 자동으로 수행하는 캐스팅.
+			주로 손실 없는 변환이나 호환 가능한 타입 간 변환에서 사용.
 
-	reinterpret_cast의경우 서로 다른 포인터 타입간 변환이 필요하거나 정수와 포인터간 변환이 필요할 때 사용합니다. 
-	예를들어, void* 에서 특정 타입 포인터로 변환할때 사용하기도 합니다.
-	저는 프로젝트에서 [예시]
+		(2) 명시적 캐스팅 (Explicit Casting)
+			프로그래머가 직접 캐스팅을 명시.
+			손실 가능성이 있거나 비호환 타입 간 변환에서 사용.
+			dynamic_cast, static_cast, const_cast, reinterpret_cast
 
-	const cast는 const의 속성을 제거하거나 추가하는데 사용합니다. 
-	예를들어, 오버로딩된 상수/비상수 멤버 함수 호출간의 문제 등에서 사용됩니다. 
-	[예시]	const_cast를 사용할 때 상수/비상수 멤버 함수 간의 상호 호출을 잘못 설계하면, 무한 재귀 호출 문제가 발생할 수 있다.
-			이를 방지하려면 const_cast를 사용할 때 매우 신중해야 하며, 상수/비상수 함수 간의 호출 관계를 명확히 설계해야 합니다.
+			(2-1) static_cast
+				- 컴파일 타임에 수행 가능한 변환에 사용. 정적 타입 변환에 사용.
+				- 상속 관계에서의 업캐스팅(Upcasting) 등에 적합.
+				- 타입 검사 없이 강제 변환
+				- 서로 호환되지 않는 기본 타입 포인터 간 변환을 허용하지 않음
+					= void  포인터를 다른 타입의 포인터로 변환 가능.
+					= 그외는 거의 허락하지 않음. 
+
+			(2-2) dynamic_cast
+				- 런타임에 타입 변환 가능성을 확인하며, 주로 다형성(Polymorphism)에서 사용.
+				- 부모 클래스 포인터를 자식 클래스 포인터로 변환(다운캐스팅, Downcasting). / 조건 : 클래스에 가상 함수가 있어야 함.
+				- 오버헤드가 발생할 수 있다. (virtual + 가상함수 테이블 필수 이므로 )
+				
+			(2-3) const_cast
+				- const 또는 volatile 속성을 제거하거나 추가.
+				- 오버로딩된 상수/비상수 멤버 함수 호출간의 문제 등에서 사용됩니다. 
+			[예시] 상수 멤버 및 비상수 멤버 함수에서 코드중복을 피한다. 
+				= return const_cast<char &>(static_cast<const TextBlock &>(*this)[position]   
+				= 비상수 객체를 상수 객체로 변환로 static_casting (같은 타입간 const를 붙이는 static_cast는 위험하지 않음)한뒤, 
+				  상수 객체이므로 상수 멤버 함수를 수행허고 상수 멤버 함수의 반환값에서 const를 제거하여 리턴
+				  단, 비상수 -> 상수만 가능하지 상수를 비상수로 바꾸어 위와같이 하는건 문제가 발생
+
+			(2-4) reinterpret_cast
+				- 가장 위험한 캐스팅으로, 비호환 타입 간 변환에 사용.
+				- 포인터 타입 변환이나 저수준 메모리 조작에 사용.
+				- 주로 패킷통신할 때 자료를 포인터로 받아올 때 사용.  
 	
-[참고]	
-	class MyClass {
-	public:
-	    void print() const {
-	        // const를 제거하고 비상수 멤버 함수를 호출
-	        const_cast<MyClass*>(this)->print();
-	    }
-	
-	    void print() {
-	        // 비상수 멤버 함수에서 상수 멤버 함수 호출
-	        this->print();
-	    }
-	};
-
-	int main() {
-	    MyClass obj;
-	    obj.print();  // 여기서 무한 재귀 발생
-	    return 0;
-	}
-	: const print()에서 비상수 print 호출 -> 비상수 print는 const print()함수 호출 -> 반복 -> 무한재귀함수 
+[참고] const cast 
+class TextBlock
+{
+public:
+    const char &operator[](std::size_t position) const // same as before
+    {
+        ...
+        return text[position];
+    }
+    char &operator[](std::size_t position) // now just calls const op[]
+    {
+        return const_cast<char &>(static_cast<const TextBlock &>(*this)[position]     
+        );
+    }
+};
 
 -------------------------------------------------------
 
 Q.	형제 클래스 간의 캐스팅에 대해 설명하시오 
-A.	직접 캐스팅(dynamic_cast, static_cast) : 부모 클래스를 공유할 뿐 서로 독립적으로 정의된 클래스이기 때문에 불가능하다. 
-	간접 캐스팅 (부모로 업캐스팅 이후 다운캐스팅) : 부모클래스로 static_cast를 통해 업캐스팅을 이루고 이후 dynamic_cast로 다운캐스팅을 하면 가능하다. 
-	단, 
+A.	직접 캐스팅(dynamic_cast) 
+	: 부모 클래스를 공유할 뿐 서로 독립적으로 정의된 클래스이기 때문에 불가능하다. 
+
+	직접 캐스팅(static_cast)
+	: 형제 클래스 간 캐스팅이 가능하지만 메모리 레이아웃이 다른 클래스의 포인터로 변환되므로, 
+	정의되지 않은 동작(Undefined Behavior)이 발생할 수 있습니다.
+
+	간접 캐스팅 (부모로 업캐스팅 이후 다운캐스팅) 
+	: 부모클래스로 static_cast를 통해 업캐스팅을 이루고 이후 dynamic_cast로 다운캐스팅을 하면 가능하다. 
+
+[예시]
+class Base {};
+
+class Sibling1 : public Base {
+public:
+    void hello() { cout << "Sibling1::hello()" << endl; }
+};
+
+class Sibling2 : public Base {
+public:
+    void hello() { cout << "Sibling2::hello()" << endl; }
+};    
+
+int main() {
+    Sibling1 s1;
+    Base* basePtr = &s1; // Sibling1 -> Base 업캐스팅
+    Sibling2* s2 = static_cast<Sibling2*>(basePtr); // Sibling2로 다운캐스팅 
+
+    s2->hello(); // Sibling2::hello() 호출. 런타임 에러 가능성 있음
+    return 0;
+}
 -------------------------------------------------------
 
 Q.	const-cast와 mutable의 차이에 대해 설명하시오  ?

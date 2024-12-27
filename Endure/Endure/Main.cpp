@@ -1,39 +1,26 @@
 ﻿#include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
-int test(int a, int b)
-{
-    return a + b;
-}
+class Base {};
+class Sibling1 : public Base {
+public:
+    void hello() { cout << "Sibling1::hello()" << endl; }
+};
+class Sibling2 : public Base {
+public:
+    void hello() { cout << "Sibling2::hello()" << endl; }
+};
 
-float test(int a, int b)
-{
-    return float(a + b);
-}
+
 int main() {
+    Sibling1 s1;
+    Base* basePtr = &s1; // Sibling1 -> Base 업캐스팅
+    Sibling2* s2 = static_cast<Sibling2*>(basePtr); // Sibling2로 다운캐스팅 (비정상적 변환)
 
-    int i;
-
-    int test = 0x12345678;
-
-    char* ptr = (char*)&test; // 1 바이트만을 가리키는 포인터를 생성함.
-
-
-
-    for (i = 0; i < sizeof(int); i++)
-
-    {
-
-        printf("%x", ptr[i]); // 1 바이트씩 순서대로 그 값을 출력함.
-
-    }
-
-    int* a = new int;
-
-    int* b = nullptr;
-
-
+    // 정의되지 않은 동작 발생
+    s2->hello(); // 런타임 에러 가능성 있음
     return 0;
 }
