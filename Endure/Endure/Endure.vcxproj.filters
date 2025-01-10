@@ -285,16 +285,13 @@
     <Text Include="..\TXT_CS\오버플로우.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\_가상메모리.txt">
+    <Text Include="..\TXT_CS\가상메모리.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\_레지스터.txt">
+    <Text Include="..\TXT_CS\레지스터.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\_메모리 풀.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\_세그먼테이션.txt">
+    <Text Include="..\TXT_CS\메모리 풀.txt">
       <Filter>2. CS</Filter>
     </Text>
     <Text Include="..\TXT_CS\_컴퓨터 구성.txt">
@@ -303,19 +300,25 @@
     <Text Include="..\TXT_CS\메모리 구조와 속도.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\메모리 할당방식.txt">
+    <Text Include="..\TXT_CS\메모리 관리 기법.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\_쓰레드.txt">
+    <Text Include="..\TXT_CS\프로세스와 쓰레드.txt">
       <Filter>2. CS</Filter>
     </Text>
     <Text Include="..\TXT_CS\_동기화.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\_프로세스.txt">
+    <Text Include="..\TXT_CS\교착상태.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\_페이징 시스템.txt">
+    <Text Include="..\TXT_CS\운영체제.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\캐시메모리.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\프로세스.txt">
       <Filter>2. CS</Filter>
     </Text>
   </ItemGroup>
