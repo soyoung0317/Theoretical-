@@ -40,6 +40,9 @@
     <ClCompile Include="..\Client\STL\reverse_list.cpp">
       <Filter>1. STL, Data Struct\CODE</Filter>
     </ClCompile>
+    <ClCompile Include="_거짓공유.cpp">
+      <Filter>0. C++</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\TXT_TOTAL\Algorithm.txt">
@@ -282,43 +285,58 @@
     <Text Include="..\TXT_CC++\CRTP.txt">
       <Filter>0. C++</Filter>
     </Text>
+    <Text Include="..\TXT_CS\0. 질문 연계 목록.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\atomic.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\3-1. 가상메모리.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\2-3. 데드락, 경쟁상태.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\2-4. 동기화 기법.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\1-3. 레지스터.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\3-3. 단편화.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\1-1. 메모리 구조와 속도.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\3-4. 메모리 풀.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\1-4. 명령어 사이클.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\스케줄링.txt">
+      <Filter>2. CS</Filter>
+    </Text>
     <Text Include="..\TXT_CS\오버플로우.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\가상메모리.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\레지스터.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\메모리 풀.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\_컴퓨터 구성.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\메모리 구조와 속도.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\메모리 관리 기법.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\프로세스와 쓰레드.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\_동기화.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\교착상태.txt">
       <Filter>2. CS</Filter>
     </Text>
     <Text Include="..\TXT_CS\운영체제.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\캐시메모리.txt">
+    <Text Include="..\TXT_CS\1-2. 캐시메모리.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\프로세스.txt">
+    <Text Include="..\TXT_CS\2-5. 컨텍스트 스위칭.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\컴퓨터 구성.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\2-1.. 프로세스.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\2-2.. 프로세스와 쓰레드.txt">
       <Filter>2. CS</Filter>
     </Text>
   </ItemGroup>
@@ -326,5 +344,10 @@
     <Image Include="..\TXT_STL\STL.png">
       <Filter>1. STL, Data Struct\Img</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\TXT_CS\3-2. 페이지 폴트, 교체, 쓰레싱.txt">
+      <Filter>2. CS</Filter>
+    </None>
   </ItemGroup>
 </Project>
