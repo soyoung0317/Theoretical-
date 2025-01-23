@@ -32,6 +32,33 @@
     <Filter Include="1. STL, Data Struct\Img">
       <UniqueIdentifier>{1b4d96ab-23a1-495a-88d5-3ad1fa0c2def}</UniqueIdentifier>
     </Filter>
+    <Filter Include="2. CS\CS_IMG">
+      <UniqueIdentifier>{16521af8-fcc6-4119-97f9-da88cf1be78b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0. C++\1. 이동과 복사">
+      <UniqueIdentifier>{2986fcfd-57b8-43ef-b670-02e1a5e9ddd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0. C++\2. 클래스">
+      <UniqueIdentifier>{d549fa58-ce98-4111-a97b-88415bd78208}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0. C++\0. C/C++">
+      <UniqueIdentifier>{1842e0e4-991d-418b-9863-3a4be371a282}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0. C++\3. 메타 프로그래밍">
+      <UniqueIdentifier>{78b60fc8-b5eb-4f47-b76c-747eef137efd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0. C++\4. 포인터">
+      <UniqueIdentifier>{c735a145-6b09-417e-83a2-4d9e4b28be17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0. C++\5. 템플릿">
+      <UniqueIdentifier>{45777870-22ea-42d6-aa39-d88194579bb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0. C++\6. 데이터 타입">
+      <UniqueIdentifier>{79405568-890f-44f1-8a59-74d8017504f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0. C++\7. 그외">
+      <UniqueIdentifier>{d9fbbb6f-a15c-40ed-8e60-f7326d9f9408}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -39,9 +66,6 @@
     </ClCompile>
     <ClCompile Include="..\Client\STL\reverse_list.cpp">
       <Filter>1. STL, Data Struct\CODE</Filter>
-    </ClCompile>
-    <ClCompile Include="_거짓공유.cpp">
-      <Filter>0. C++</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -57,33 +81,6 @@
     <Text Include="..\TXT_TOTAL\STL.txt">
       <Filter>99. 전체 질문목록</Filter>
     </Text>
-    <Text Include="..\TXT_DIRECTX\_클리핑과 컬링.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\_LOD.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\_PBR.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\_UV매핑.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\_노말맵.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\_레스터라이즈.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\_렌더링 파이프라인.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\_셰이더.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\_앨리어싱.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
     <Text Include="..\TXT_ALGORITHM\[정리] 정렬 알고리즘.txt">
       <Filter>4. Algorithm</Filter>
     </Text>
@@ -93,202 +90,13 @@
     <Text Include="..\TXT_ALGORITHM\BFS와 DFS.txt">
       <Filter>4. Algorithm</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\함수포인터.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\C++에 대하여.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\call by value.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\explicit.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\extern.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\메모리함수 mem~.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\move와 foward.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\mutable.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\new와 malloc.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\NULL, nullptr.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\RTTI.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\SOLID 원칙.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\static.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\STL기본.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\개행.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\객체지향 프로그래밍.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\구조체 클래스.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\리스트 뒤집기.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\매크로와 인라인.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\생성자와 소멸자.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\실수형 데이터.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\오버로딩과 오버라이딩.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\이동생성자.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\인터페이스, 다중상속.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\전방선언.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\전처리문.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\캐스팅.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\컴파일 과정.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\클래스와 인스턴스.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\함수객체.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\함수호출과정.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\auto.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\_Is-a Has-a.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\_L-Value vs R-Value.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\this.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\using.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\_volatile.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\가상함수.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\_깊은복사와 얕은복사.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\람다식.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\바인딩.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\스마트 포인터.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\유니폼 초기화.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\이동 의미론.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\_추상클래스.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\_템플릿.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\_포인터.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\set.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\vector.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\범위기반 for문.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\상등성과 동등성.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\이진탐색.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\큐.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\트라이(Trie).txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\해시.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\힙(Heap).txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\[정리]stl 총정리.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
     <Text Include="..\TXT_STL\_B트리.txt">
       <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\_emplace와 push.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\array.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\list.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_STL\map.txt">
-      <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\friend.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\CRTP.txt">
-      <Filter>0. C++</Filter>
     </Text>
     <Text Include="..\TXT_CS\0. 질문 연계 목록.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\atomic.txt">
+    <Text Include="..\TXT_CS\4-1. atomic.txt">
       <Filter>2. CS</Filter>
     </Text>
     <Text Include="..\TXT_CS\3-1. 가상메모리.txt">
@@ -315,13 +123,13 @@
     <Text Include="..\TXT_CS\1-4. 명령어 사이클.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\스케줄링.txt">
+    <Text Include="..\TXT_CS\5-1. 스케줄링.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\오버플로우.txt">
+    <Text Include="..\TXT_CS\1-5. 오버플로우.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\운영체제.txt">
+    <Text Include="..\TXT_CS\0-1. 운영체제.txt">
       <Filter>2. CS</Filter>
     </Text>
     <Text Include="..\TXT_CS\1-2. 캐시메모리.txt">
@@ -330,19 +138,274 @@
     <Text Include="..\TXT_CS\2-5. 컨텍스트 스위칭.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="..\TXT_CS\컴퓨터 구성.txt">
-      <Filter>2. CS</Filter>
-    </Text>
     <Text Include="..\TXT_CS\2-1.. 프로세스.txt">
       <Filter>2. CS</Filter>
     </Text>
     <Text Include="..\TXT_CS\2-2.. 프로세스와 쓰레드.txt">
       <Filter>2. CS</Filter>
     </Text>
+    <Text Include="..\TXT_STL\emplace와 push.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\_정렬.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\0. stl 총정리.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\0-1. 상등성과 동등성.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\0-2. 범위기반 for문.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\0-3. 이진탐색.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\1-1. array.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\1-2. vector.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\1-3. list.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\3-1. map.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\4-1. set.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\5-1. 큐.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\6-1. 해시.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\7-1. 힙(Heap).txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\8-1. 트라이(Trie).txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-1. UV매핑.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-1. 셰이더.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-1. 클리핑과 컬링.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-2. 노말맵.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\4-1. PBR.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\4-2. LOD.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\4-2. 앨리어싱.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\0. DirectX.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\0. 전체 질문 리스트.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-1. 렌더링 파이프라인.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-2. 레스터라이즈.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\L-Value vs R-Value.txt">
+      <Filter>0. C++\1. 이동과 복사</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\_템플릿.txt">
+      <Filter>0. C++\5. 템플릿</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\_포인터.txt">
+      <Filter>0. C++\4. 포인터</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\C++에 대하여.txt">
+      <Filter>0. C++\0. C/C++</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\move와 foward.txt">
+      <Filter>0. C++\1. 이동과 복사</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\CRTP.txt">
+      <Filter>0. C++\3. 메타 프로그래밍</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\call by value.txt">
+      <Filter>0. C++\1. 이동과 복사</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\SOLID 원칙.txt">
+      <Filter>0. C++\0. C/C++</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\mutable.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\friend.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\extern.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\explicit.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\auto.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\_Is-a Has-a.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\_volatile.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\_추상클래스.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\깊은복사와 얕은복사.txt">
+      <Filter>0. C++\1. 이동과 복사</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\NULL, nullptr.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\스마트 포인터.txt">
+      <Filter>0. C++\4. 포인터</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\가상함수.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\오버로딩과 오버라이딩.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\인터페이스, 다중상속.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\함수포인터.txt">
+      <Filter>0. C++\4. 포인터</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\클래스와 인스턴스.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\객체지향 프로그래밍.txt">
+      <Filter>0. C++\0. C/C++</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\구조체 클래스.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\생성자와 소멸자.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\바인딩.txt">
+      <Filter>0. C++\6. 데이터 타입</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\RTTI.txt">
+      <Filter>0. C++\6. 데이터 타입</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\실수형 데이터.txt">
+      <Filter>0. C++\6. 데이터 타입</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\이동생성자.txt">
+      <Filter>0. C++\1. 이동과 복사</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\이동 의미론.txt">
+      <Filter>0. C++\1. 이동과 복사</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\this.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\유니폼 초기화.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\new와 malloc.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\static.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\STL기본.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\using.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\개행.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\람다식.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\매크로 와 inline.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\메모리함수 mem~.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\캐스팅.txt">
+      <Filter>0. C++\6. 데이터 타입</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\함수호출과정.txt">
+      <Filter>0. C++\0. C/C++</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\컴파일 과정.txt">
+      <Filter>0. C++\0. C/C++</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\전방선언.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\전처리문.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\함수객체.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\RAII.txt">
+      <Filter>0. C++</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\6-1. 메모리관리.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\결합도.txt">
+      <Filter>0. C++\0. C/C++</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\유니티 빌드.txt">
+      <Filter>0. C++\0. C/C++</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\constexpr.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\1-4. 벡터와 리스트.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\TXT_STL\STL.png">
       <Filter>1. STL, Data Struct\Img</Filter>
+    </Image>
+    <Image Include="..\TXT_CS\image\인터럽트 처리 과정.png">
+      <Filter>2. CS\CS_IMG</Filter>
+    </Image>
+    <Image Include="..\TXT_CS\image\페이징과 TLB.png">
+      <Filter>2. CS\CS_IMG</Filter>
+    </Image>
+    <Image Include="..\TXT_CS\image\Cashe Memory.png">
+      <Filter>2. CS\CS_IMG</Filter>
+    </Image>
+    <Image Include="..\TXT_CS\image\process_1.png">
+      <Filter>2. CS\CS_IMG</Filter>
+    </Image>
+    <Image Include="..\TXT_CS\image\명령어 사이클.png">
+      <Filter>2. CS\CS_IMG</Filter>
+    </Image>
+    <Image Include="..\TXT_CS\image\외부단편화 내부단편화.png">
+      <Filter>2. CS\CS_IMG</Filter>
     </Image>
   </ItemGroup>
   <ItemGroup>

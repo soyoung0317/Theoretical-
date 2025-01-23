@@ -1,26 +1,33 @@
 ﻿#include <iostream>
 #include <vector>
 #include <algorithm>
+#include <stdio.h>
+#include <stdlib.h>
 
 using namespace std;
 
-class Base {};
-class Sibling1 : public Base {
-public:
-    void hello() { cout << "Sibling1::hello()" << endl; }
-};
-class Sibling2 : public Base {
-public:
-    void hello() { cout << "Sibling2::hello()" << endl; }
-};
-
-
+typedef struct TEST
+{
+    string str;  
+    int num;          
+}TEST;
 int main() {
-    Sibling1 s1;
-    Base* basePtr = &s1; // Sibling1 -> Base 업캐스팅
-    Sibling2* s2 = static_cast<Sibling2*>(basePtr); // Sibling2로 다운캐스팅 (비정상적 변환)
+    int* ptr1 = (int*)malloc(sizeof(int));
+    *ptr1 = 10;
 
-    // 정의되지 않은 동작 발생
-    s2->hello(); // 런타임 에러 가능성 있음
+    printf("ptr1 값[%d]\n", *ptr1);
+    int* ptr2 = (int*)realloc(ptr1, sizeof(int)); // realloc 을 같은 크기로 호출
+    *ptr2 = 20;
+
+    printf("ptr1 주소[%p]    ptr2 주소[%p] --- 같은 주소\n", ptr1, ptr2);
+    printf("ptr2 값[%d]\n", *ptr1);
+
+    printf("ptr2 주소[%p]", ptr2);
+    int* ptr3 = (int*)realloc(ptr2, sizeof(int) * 10); // realloc 을 보다 큰 크기로 호출
+    *ptr3 = 30;
+
+    printf("    ptr3 주소[%p] --- 달라진 주소\n", ptr3);
+    printf("ptr3 값[%d]\n", *ptr3);
+
     return 0;
 }
