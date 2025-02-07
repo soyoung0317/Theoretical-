@@ -59,6 +59,9 @@
     <Filter Include="0. C++\7. 그외">
       <UniqueIdentifier>{d9fbbb6f-a15c-40ed-8e60-f7326d9f9408}</UniqueIdentifier>
     </Filter>
+    <Filter Include="3. Network\Img">
+      <UniqueIdentifier>{06f8b284-68dd-4767-8d7e-af3f5459b17c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -384,6 +387,27 @@
     <Text Include="..\TXT_STL\1-4. 벡터와 리스트.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
+    <Text Include="TCP, UDP.txt">
+      <Filter>3. Network</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\비트와 바이트.txt">
+      <Filter>3. Network</Filter>
+    </Text>
+    <Text Include="빅 엔디안과 리틀 엔디안.txt">
+      <Filter>3. Network</Filter>
+    </Text>
+    <Text Include="전위연산 후위연산.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="순 운동학과 역 운동학.txt">
+      <Filter>5. DirectX</Filter>
+    </Text>
+    <Text Include="0-3. 시스템 콜.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="0-2. 커널.txt">
+      <Filter>2. CS</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\TXT_STL\STL.png">
@@ -406,6 +430,9 @@
     </Image>
     <Image Include="..\TXT_CS\image\외부단편화 내부단편화.png">
       <Filter>2. CS\CS_IMG</Filter>
+    </Image>
+    <Image Include="..\TXT_NETWORK\Img\3way_handshake.jpg">
+      <Filter>3. Network\Img</Filter>
     </Image>
   </ItemGroup>
   <ItemGroup>

@@ -215,6 +215,7 @@
     <Text Include="..\TXT_DIRECTX\4-1. PBR.txt" />
     <Text Include="..\TXT_DIRECTX\4-2. LOD.txt" />
     <Text Include="..\TXT_DIRECTX\4-2. 앨리어싱.txt" />
+    <Text Include="..\TXT_NETWORK\비트와 바이트.txt" />
     <Text Include="..\TXT_STL\0-1. 상등성과 동등성.txt" />
     <Text Include="..\TXT_STL\0-2. 범위기반 for문.txt" />
     <Text Include="..\TXT_STL\0-3. 이진탐색.txt" />
@@ -236,6 +237,13 @@
     <Text Include="..\TXT_TOTAL\CC++.txt" />
     <Text Include="..\TXT_TOTAL\Network.txt" />
     <Text Include="..\TXT_TOTAL\STL.txt" />
+    <Text Include="TCP, UDP.txt" />
+    <Text Include="빅 엔디안과 리틀 엔디안.txt" />
+    <Text Include="순 운동학과 역 운동학.txt" />
+    <Text Include="0-3. 시스템 콜.txt" />
+    <Text Include="전위연산 후위연산.txt" />
+    <Text Include="0-2. 커널.txt" />
+    <Text Include="함수호출규약.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\TXT_CS\image\Cashe Memory.png" />
@@ -244,6 +252,7 @@
     <Image Include="..\TXT_CS\image\외부단편화 내부단편화.png" />
     <Image Include="..\TXT_CS\image\인터럽트 처리 과정.png" />
     <Image Include="..\TXT_CS\image\페이징과 TLB.png" />
+    <Image Include="..\TXT_NETWORK\Img\3way_handshake.jpg" />
     <Image Include="..\TXT_STL\STL.png" />
   </ItemGroup>
   <ItemGroup>
