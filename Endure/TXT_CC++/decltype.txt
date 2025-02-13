@@ -1,0 +1,73 @@
+﻿Q. decltype에 대해 설명하시오
+
+Q. auto와 decltype(auto)의 차이점
+
+Q. auto 와 decltype의 차이점은 무엇인가? (declare type)
+
+-------------------------------------------------------
+
+Q. decltype에 대해 설명하시오
+A. 
+	1️. 정의
+		decltype은 C++11에서 도입된 키워드로, 주어진 표현식(변수, 함수 호출, 연산 등)의 정확한 타입을 추론할 때 사용된다.
+
+	2️. 왜 사용하는가?
+		- 변수나 표현식의 정확한 타입을 추론하고 유지하기 위해
+		- 템플릿 프로그래밍에서 유연한 코드 작성을 위해
+		- auto와 달리 참조(&)와 const까지 포함하여 타입을 추론할 수 있음
+
+	3. decltype과 auto의 차이점
+		auto : const와 &를 제거한 기본 타입을 추론
+		decltype : 원래 타입(참조, const 포함)을 유지
+			int a = 10;
+			int& ref = a;
+			decltype(ref) b = a; // b의 타입은 int&
+	
+	4. decltype(auto)
+		표현식의 원래 타입을 그대로 유지하면서 자동 추론한다.
+		decltype처럼 동작하면서, 더 유연하게 타입을 결정한다.
+
+	5. decltype을 활용한 템플릿 프로그래밍
+			template <typename T1, typename T2>
+			auto add(T1 a, T2 b) -> decltype(a + b) {
+			    return a + b;
+			}
+		- template <typename T1, typename T2> → 템플릿을 사용하여 두 개의 타입을 받음.
+		- T1 a, T2 b → 입력값 a와 b의 타입을 각각 T1과 T2로 결정.
+		- ★ decltype(a + b) → a + b의 연산 결과 타입을 반환 타입으로 설정.
+		- return a + b; → 연산을 수행하고 결과를 반환.
+
+		template <typename T1, typename T2>
+		decltype(auto) add(T1 a, T2 b) {
+		    return a + b;
+		}
+		- 이 방식은 반환 타입 추론을 decltype(a + b)처럼 정밀하게 수행하면서도 -> decltype(a + b)를 생략할 수 있다.
+
+-------------------------------------------------------
+
+Q.	auto와 decltype(auto)의 차이점
+A. 	auto와 decltype(auto) 모두 타입을 자동으로 추론하지만, 동작 방식이 다름.
+
+	auto			우변의 타입을 기반으로 추론하되, const 및 참조 제거	
+	decltype(auto)	표현식 전체의 타입을 유지	ref, const 유지됨
+
+								auto									decltype(auto)
+		기본 타입 추론		const와 & 제거								원래 타입 유지
+		함수 반환 타입		const와 & 제거								원래 타입 유지
+		템플릿과 함께 사용	auto&&는 lvalue/rvalue 모두 받을 수 있음		원래 타입 유지
+-------------------------------------------------------
+		
+Q. auto 와 decltype의 차이점은 무엇인가? (declare type)
+A.  auto 는 초기화 값에 따라 변수의 자료형을 추론하는 키워드이고, 
+	decltype은 정확한 자료형을 알아내기 위해 사용하는 키워드로, auto와 비슷하지만 동작방식이 다릅니다. 
+
+	decltype은 단순히 이 변수나 표현식의 자료형이 무엇인지를 물어보는 역할로 초기값이 없어도 사용이 가능하다.
+
+[예시]	int x = 10;
+		const int& ref = x;
+
+		auto a = ref;       // a는 int 타입 (ref의 값을 복사함)
+		decltype(ref) b = x; // b는 const int& 타입 (ref의 정확한 형식을 유지)
+		
+-------------------------------------------------------
+

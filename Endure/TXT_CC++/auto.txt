@@ -1,56 +1,121 @@
-Q. auto Ű���忡 ���� �����Ͻÿ� 
+﻿Q. auto 키워드에 대해 설명하시오 
 
-Q. auto temp = 0; ���� temp�� int���� bool������ ��� �Ǵ��ϴ°� ?
+Q. auto를 사용할 때 타입 추론이 어떻게 이루어지는가?
 
-Q. auto* A = Derived* B; ���� A�� Ÿ����?
+Q. auto temp = 0; 에서 temp가 int인지 bool인지를 어떻게 판단하는가 ?
 
-Q. decltype�� ���� �����Ͻÿ�
-
-Q. auto �� decltype�� �������� �����ΰ�? (declare type)
+Q. auto* A = Derived* B; 에서 A의 타입은?
 
 -------------------------------------------------------
 
-Q. auto Ű���忡 ���� �����Ͻÿ� 
-A. 	������ �ʱ�ȭ ���� ���� ������ �ڷ����� �ڵ����� �����ϴ� ������ �մϴ�.
-	auto�� Ÿ�� ������ ������Ÿ�ӿ� �̷������
-	��ȯ���İ� �������� ����� �� ������ �Ű������� ����� �Ұ����ϰ�, ����ü�� Ŭ���� ���� ��������� ���� �� ����. (-> ��ü�� �ڷ����� ũ�⸦ ���� �� ���� �����̴�.)
-	������ ���� ���� ������ �� const�� &�� ������� �� �־� ���ǰ� �ʿ��ϴ�. 
-	������� for������ �ݺ��ڸ� ���������� �����ϴ� ��� auto�� ����� ���� �����ϰ� ǥ���� �� �ֽ��ϴ�. 
+Q. auto 키워드에 대해 설명하시오 
+A. 	
+	1. 정의
+		- auto 키워드는 C++11부터 도입된 타입 추론 기능으로, 컴파일러가 변수의 타입을 자동으로 결정하도록 한다. 
+		- 변수의 초기화 값에 따라 변수의 자료형을 자동으로 결정하는 역할을 합니다.
+		- auto의 타입 결정은 [컴파일 타임] 에 이루어진다
+
+	2. 왜 사용하는가?
+		- 타입 자동 추론: 복잡한 타입을 직접 명시하지 않아도 컴파일러가 적절한 타입을 지정해 준다.
+		- 가독성 향상: 긴 타입명을 일일이 작성할 필요 없이 auto를 사용하여 코드가 간결해진다.
+		- 유지보수 용이: 타입이 변경될 경우 auto를 사용하면 모든 관련 코드를 수정할 필요가 없다.
+
+	3. 장점과 단점
+		1) 장점
+			- 긴 타입명을 줄여 가독성 향상 (ex: std::vector<int>::iterator 대신 auto 사용)
+			- 템플릿과 함께 사용할 때 유용 (컴파일러가 정확한 타입을 추론)
+			- 코드 유지보수가 쉬워짐 (타입이 변경될 경우 코드 수정 최소화)
+		
+		2) 단점
+			- 명확한 타입을 알기 어려움 (특히 초보자에게는 가독성이 떨어질 수 있음)
+			- 잘못된 타입 추론 가능성 (ex: auto를 int로 추론했지만, 실제 의도는 double이었을 경우)
+			- 디버깅 어려움 (컴파일러가 추론한 타입을 명확히 알기 어려울 수 있음)
+
+	4. 주의할 점
+		- ★ 대입을 통해 형을 결정할 때 const와 &를 떼어버릴 수 있어 주의가 필요하다. 
+		- ★ 초기화 없이 사용 불가 (auto x; 불가능, auto x = 10; 가능)
+		- 반환 타입 추론 시 auto와 decltype(auto)의 차이 주의
+		- auto를 남용하면 가독성이 오히려 나빠질 수 있음
+		- 반환형식과 같은곳에 사용할 수 있으며 매개변수로 사용이 불가능하고, 구조체나 클래스 등의 멤버변수로 쓰일 수 없다. (-> 객체의 자료형의 크기를 정할 수 없기 떄문이다.)
 	
-[����]	int x = int();		
-		auto auto_x = x;		// auto_x : int��
+	5. 헷갈리는 정의
+		auto는 기본적으로 const와 &를 제거한 타입을 추론합니다.
+		하지만 auto&나 auto&&를 사용하면 원본의 const 및 참조 속성이 유지됩니다.
+		즉, auto만 쓰면 const와 &가 제거되지만, auto&나 auto&&는 제거되지 않습니다.
+		[정리]
+		선언 방식		rvalue 가능?		lvalue 가능?		타입 추론 결과
+		auto			가능				가능				int, double 등 값 타입
+		const auto		가능				가능				const int, const double 등 값 타입 (const 추가됨)
+		auto&			불가능			가능				int&, double& 등 (lvalue만 가능)
+		const auto&		가능				가능				const int&, const double& 등 (모든 값 가능)
+		auto&&			가능				가능				int&& (rvalue일 때), int& (lvalue일 때)
 
-		const int& crx = x;		// crx �� x �� �����ϴ� const int & ������.
-		auto auto_crx1 = crs;	// auto_crx1�� int���̴�. - ���Թ޾� ���� �����Ҷ� const�� &�� ��������. 
-		const auto& auto_crx2 = crx; // auto���� const�� &�� �ٿ���� const int&�� �ȴ�. 
+	int x = 10;
+	const int y = 20;
+	int& rx	= x;
+	const int& cry = y;
+	
+	auto a = x;				// int
+	auto b = y;				// int (const 제거됨)
+	auto c = rx;			// int (& 제거됨)
+	auto d = cry;			// int (const & 제거됨)
+	auto e = 10;
+
+	auto& a = x;			// int&
+	auto& b = y;			// const int& (const 유지됨)
+	auto& c = rx;			// int& (참조 유지됨)
+	auto& d = cry;			// const int& (const & 유지됨)
+	auto& e = 10;			// 오류. auto&는 lvalue참조를 의미한다. 
+
+	auto&& a = x;			// int&
+	auto&& b = y;			// const int&
+	auto&& c = rx;			// int&
+	auto&& d = cry;			// const int&
+	auto&& e = 30;			// int&& (우값 참조)
 -------------------------------------------------------
 
-Q.	auto temp = 0; ���� temp�� int���� bool������ ��� �Ǵ��ϴ°� ?
+Q. auto를 사용할 때 타입 추론이 어떻게 이루어지는가?
+A.
+	1. 기본적인 타입 추론 방식
+		auto의 타입은 우변의 타입을 따르되, const나 & 같은 속성은 기본적으로 무시된다.
+			auto b = 3.14;     // double
+			auto c = "Hello";  // const char[6] → const char*
+			auto d = {1, 2, 3}; // std::initializer_list<int>
+			const int x = 42;
+		auto y = x;   // int (const 속성 제거)
+
+	2. 레퍼런스의 경우 (auto& ; 오토 레퍼런스)
+		기본적으로 타입의 레퍼런스로 추론된다. 단, 초기화용으로 주어진 변수가 레퍼런스일 경우 레퍼런스를 한번 더 붙이지 않는다.
+			int i = 1;
+			int& ir = i;
+			 
+			auto& ai = i;           // int& 로 추론
+			auto& air = ir;         // int& 로 추론
+			const auto& cai = i;    // int const& 로 추론
+			const auto& cair = ir;  // int const& 로 추론
+
+	3. Universal 레퍼런스의 경우 (auto&&; 오토 더블 레퍼런스)
+		auto&&는 좌값(lvalue)과 우값(rvalue) 모두 받을 수 있는 유니버설 참조(universal reference)로 동작한다.
+		좌값을 받으면 &를 유지하고, 우값을 받으면 &&가 된다.
+			int x = 42;
+			auto&& a = x;   // int& (lvalue일 경우)
+			auto&& b = 10;  // int&& (rvalue일 경우)
+		x는 좌값(lvalue) 이므로 auto&&는 int&가 된다.
+		10은 우값(rvalue) 이므로 auto&&는 int&&가 된다.
+
+	4. 초기화 리스트 : 중괄호 초기화 
+		중괄호를 이용하여 리스트 형태의 초기화를 할경우 std::intializer_list<T> 타입으로 추론된다.
+		초기화 리스트에 동일한 타입의 값을 넣지 않으면 컴파일 에러가 발생한다.
+			auto ail = {10, 20, 30};    // std::initializer_list<int>
+			auto aile = {10, 20, 30.0};  // error. can not deduce 'auto' type​
+-------------------------------------------------------
+
+Q.	auto temp = 0; 에서 temp가 int인지 bool인지를 어떻게 판단하는가 ?
 A. 
 
 -------------------------------------------------------
 
-Q. auto* A = Derived* B; ���� A�� Ÿ����?
-
-A.	auto �� ������Ÿ�ӿ� �̷�����⶧���� �켱 �θ� Ŭ������ �������� �ѵ�, 
-	��Ÿ�ӿ� RTTI�� ���� �ڽ�Ŭ�������� �θ�Ŭ�������� Ȯ���Ѵ�. 
+Q. auto* A = Derived* B; 에서 A의 타입은?
+A.	auto 는 컴파일타임에 이루어지기때문에 우선 부모 클래스로 컴파일을 한뒤, 
+	런타임에 RTTI를 통해 자식클래스인지 부모클래스인지 확인한다. 
 -------------------------------------------------------
-Q. decltype�� ���� �����Ͻÿ�
-A. decltype ��Ȯ�� �ڷ����� �˾Ƴ��� ���� ����ϴ� Ű����� ������ Ÿ���� �״�� �߷��ϴ� ������ �մϴ�. 
-
--------------------------------------------------------
-		
-Q. auto �� decltype�� �������� �����ΰ�? (declare type)
-A.  auto �� �ʱ�ȭ ���� ���� ������ �ڷ����� �߷��ϴ� Ű�����̰�, 
-	decltype�� ��Ȯ�� �ڷ����� �˾Ƴ��� ���� ����ϴ� Ű�����, auto�� ��������� ���۹���� �ٸ��ϴ�. 
-
-	decltype�� �ܼ��� �� ������ ǥ������ �ڷ����� ���������� ����� ���ҷ� �ʱⰪ�� ��� ����� �����ϴ�.
-
-[����]	int x = 10;
-		const int& ref = x;
-
-		auto a = ref;       // a�� int Ÿ�� (ref�� ���� ������)
-		decltype(ref) b = x; // b�� const int& Ÿ�� (ref�� ��Ȯ�� ������ ����)
-		
--------------------------------------------------------
-

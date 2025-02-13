@@ -27,33 +27,36 @@ A. 	1. 정의
 			손실 가능성이 있거나 비호환 타입 간 변환에서 사용.
 			dynamic_cast, static_cast, const_cast, reinterpret_cast
 
-			(2-1) static_cast
+			(2-1) static_cast (일반적인 타입 변환)
 				- 컴파일 타임에 수행 가능한 변환에 사용. 정적 타입 변환에 사용.
-				- 상속 관계에서의 업캐스팅(Upcasting) 등에 적합.
 				- 타입 검사 없이 강제 변환
-				- 서로 호환되지 않는 기본 타입 포인터 간 변환을 허용하지 않음
-					= void  포인터를 다른 타입의 포인터로 변환 가능.
+				- [예] 기본 타입 변환 (double → int)
+				- [예] 상속 관계에서의 업캐스팅(Upcasting) 등에 적합.
+				- [예] 서로 호환되지 않는 기본 타입 포인터 간 변환을 허용하지 않음
+					= void 포인터를 다른 타입의 포인터로 변환 가능.  (void* → int*)
 					= 그외는 거의 허락하지 않음. 
 
-				Q. 
-
-			(2-2) dynamic_cast
-				- 런타임에 타입 변환 가능성을 확인하며, 주로 다형성(Polymorphism)에서 사용.
-				- 부모 클래스 포인터를 자식 클래스 포인터로 변환(다운캐스팅, Downcasting). / 조건 : 클래스에 가상 함수가 있어야 함.
+			(2-2) dynamic_cast (안전한 다운캐스팅)
+				- 런타임에 타입 변환 가능성을 확인하며, 실패 시 nullptr을 반환하여 안전성을 보장한다.
 				- 오버헤드가 발생할 수 있다. (virtual + 가상함수 테이블 필수 이므로 )
+				- [예] 부모 클래스 포인터를 자식 클래스 포인터로 변환(다운캐스팅, Downcasting). / 조건 : 클래스에 가상 함수가 있어야 함.
 				
 			(2-3) const_cast
 				- const 또는 volatile 속성을 제거하거나 추가.
-				- 오버로딩된 상수/비상수 멤버 함수 호출간의 문제 등에서 사용됩니다. 
-			[예시] 상수 멤버 및 비상수 멤버 함수에서 코드중복을 피한다. 
-				= return const_cast<char &>(static_cast<const TextBlock &>(*this)[position]   
-				= 비상수 객체를 상수 객체로 변환로 static_casting (같은 타입간 const를 붙이는 static_cast는 위험하지 않음)한뒤, 
-				  상수 객체이므로 상수 멤버 함수를 수행허고 상수 멤버 함수의 반환값에서 const를 제거하여 리턴
-				  단, 비상수 -> 상수만 가능하지 상수를 비상수로 바꾸어 위와같이 하는건 문제가 발생
+				- [예] 오버로딩된 상수/비상수 멤버 함수 호출간의 문제 등에서 사용됩니다. 
+					객체가 const이면 const 멤버 함수가 호출되고, non-const 객체이면 non-const 멤버 함수가 호출된다.
+						const Test obj;  // const 객체
+						const_cast<Test&>(obj).show();  // const_cast를 사용하여 non-const 함수 호출
+				- [예] 상수 멤버 및 비상수 멤버 함수에서 코드중복을 피한다. 
+					= return const_cast<char &>(static_cast<const TextBlock &>(*this)[position]   
+					= 비상수 객체를 상수 객체로 변환로 static_casting (같은 타입간 const를 붙이는 static_cast는 위험하지 않음)한뒤, 
+					  상수 객체이므로 상수 멤버 함수를 수행허고 상수 멤버 함수의 반환값에서 const를 제거하여 리턴
+					  단, 비상수 -> 상수만 가능하지 상수를 비상수로 바꾸어 위와같이 하는건 문제가 발생
 
 			(2-4) reinterpret_cast
 				- 가장 위험한 캐스팅으로, 비호환 타입 간 변환에 사용.
 				- 포인터 타입 변환이나 저수준 메모리 조작에 사용.
+				- 메모리 주소를 직접 변환하므로, 잘못 사용하면 심각한 오류가 발생할 수 있다.
 				- 주로 패킷통신할 때 자료를 포인터로 받아올 때 사용.  
 	
 [참고] const cast 

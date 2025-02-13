@@ -44,9 +44,6 @@
     <Filter Include="0. C++\0. C/C++">
       <UniqueIdentifier>{1842e0e4-991d-418b-9863-3a4be371a282}</UniqueIdentifier>
     </Filter>
-    <Filter Include="0. C++\3. 메타 프로그래밍">
-      <UniqueIdentifier>{78b60fc8-b5eb-4f47-b76c-747eef137efd}</UniqueIdentifier>
-    </Filter>
     <Filter Include="0. C++\4. 포인터">
       <UniqueIdentifier>{c735a145-6b09-417e-83a2-4d9e4b28be17}</UniqueIdentifier>
     </Filter>
@@ -61,6 +58,15 @@
     </Filter>
     <Filter Include="3. Network\Img">
       <UniqueIdentifier>{06f8b284-68dd-4767-8d7e-af3f5459b17c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5. DirectX\1. 셰이더 개요">
+      <UniqueIdentifier>{92927586-6b99-4755-a513-bdb00991c7ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5. DirectX\3. 애니메이션">
+      <UniqueIdentifier>{4ae7a48a-7880-40ce-8960-9699c85e886d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5. DirectX\2. 셰이더">
+      <UniqueIdentifier>{d7507c7f-2aca-4ddc-a261-06a7ea1b9eb7}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -95,57 +101,6 @@
     </Text>
     <Text Include="..\TXT_STL\_B트리.txt">
       <Filter>1. STL, Data Struct</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\0. 질문 연계 목록.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\4-1. atomic.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\3-1. 가상메모리.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\2-3. 데드락, 경쟁상태.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\2-4. 동기화 기법.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\1-3. 레지스터.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\3-3. 단편화.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\1-1. 메모리 구조와 속도.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\3-4. 메모리 풀.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\1-4. 명령어 사이클.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\5-1. 스케줄링.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\1-5. 오버플로우.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\0-1. 운영체제.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\1-2. 캐시메모리.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\2-5. 컨텍스트 스위칭.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\2-1.. 프로세스.txt">
-      <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\2-2.. 프로세스와 쓰레드.txt">
-      <Filter>2. CS</Filter>
     </Text>
     <Text Include="..\TXT_STL\emplace와 push.txt">
       <Filter>1. STL, Data Struct</Filter>
@@ -192,25 +147,7 @@
     <Text Include="..\TXT_STL\8-1. 트라이(Trie).txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="..\TXT_DIRECTX\2-1. UV매핑.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\2-1. 셰이더.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\3-1. 클리핑과 컬링.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\3-2. 노말맵.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\4-1. PBR.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\4-2. LOD.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\4-2. 앨리어싱.txt">
+    <Text Include="..\TXT_DIRECTX\노말맵.txt">
       <Filter>5. DirectX</Filter>
     </Text>
     <Text Include="..\TXT_DIRECTX\0. DirectX.txt">
@@ -219,10 +156,7 @@
     <Text Include="..\TXT_DIRECTX\0. 전체 질문 리스트.txt">
       <Filter>5. DirectX</Filter>
     </Text>
-    <Text Include="..\TXT_DIRECTX\1-1. 렌더링 파이프라인.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\1-2. 레스터라이즈.txt">
+    <Text Include="..\TXT_DIRECTX\레스터라이즈.txt">
       <Filter>5. DirectX</Filter>
     </Text>
     <Text Include="..\TXT_CC++\L-Value vs R-Value.txt">
@@ -231,7 +165,7 @@
     <Text Include="..\TXT_CC++\_템플릿.txt">
       <Filter>0. C++\5. 템플릿</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_포인터.txt">
+    <Text Include="..\TXT_CC++\포인터.txt">
       <Filter>0. C++\4. 포인터</Filter>
     </Text>
     <Text Include="..\TXT_CC++\C++에 대하여.txt">
@@ -239,9 +173,6 @@
     </Text>
     <Text Include="..\TXT_CC++\move와 foward.txt">
       <Filter>0. C++\1. 이동과 복사</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\CRTP.txt">
-      <Filter>0. C++\3. 메타 프로그래밍</Filter>
     </Text>
     <Text Include="..\TXT_CC++\call by value.txt">
       <Filter>0. C++\1. 이동과 복사</Filter>
@@ -259,9 +190,6 @@
       <Filter>0. C++\7. 그외</Filter>
     </Text>
     <Text Include="..\TXT_CC++\explicit.txt">
-      <Filter>0. C++\7. 그외</Filter>
-    </Text>
-    <Text Include="..\TXT_CC++\auto.txt">
       <Filter>0. C++\7. 그외</Filter>
     </Text>
     <Text Include="..\TXT_CC++\_Is-a Has-a.txt">
@@ -369,12 +297,6 @@
     <Text Include="..\TXT_CC++\함수객체.txt">
       <Filter>0. C++\7. 그외</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\RAII.txt">
-      <Filter>0. C++</Filter>
-    </Text>
-    <Text Include="..\TXT_CS\6-1. 메모리관리.txt">
-      <Filter>2. CS</Filter>
-    </Text>
     <Text Include="..\TXT_CC++\결합도.txt">
       <Filter>0. C++\0. C/C++</Filter>
     </Text>
@@ -387,26 +309,147 @@
     <Text Include="..\TXT_STL\1-4. 벡터와 리스트.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="TCP, UDP.txt">
+    <Text Include="전위연산 후위연산.txt">
+      <Filter>0. C++\7. 그외</Filter>
+    </Text>
+    <Text Include="함수호출규약.txt" />
+    <Text Include="..\TXT_CC++\RAII.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\CRTP.txt">
+      <Filter>0. C++\5. 템플릿</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\0. 질문 연계 목록.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\0-1. 운영체제.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\0-2. 커널.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\0-2. 컴퓨터 시스템.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\0-3. 시스템 콜.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\1-1. 메모리 구조와 속도.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\1-2. 캐시메모리.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\1-3. 레지스터.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\1-4. 명령어 사이클.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\1-5. 오버플로우.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\2-1.. 프로세스.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\2-2.. 프로세스와 쓰레드.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\2-3. 데드락, 경쟁상태.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\2-4. 동기화 기법.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\2-5. 컨텍스트 스위칭.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\3-1. 가상메모리.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\3-2. 페이지 폴트, 교체, 쓰레싱.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\3-3. 메모리 단편화.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\3-3. 요구 페이징.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\3-4. 메모리 풀.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\4-1. atomic.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\5-1. 스케줄링.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_CS\6-1. 메모리관리.txt">
+      <Filter>2. CS</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\TCP, UDP.txt">
       <Filter>3. Network</Filter>
     </Text>
     <Text Include="..\TXT_NETWORK\비트와 바이트.txt">
       <Filter>3. Network</Filter>
     </Text>
-    <Text Include="빅 엔디안과 리틀 엔디안.txt">
+    <Text Include="..\TXT_NETWORK\빅 엔디안과 리틀 엔디안.txt">
       <Filter>3. Network</Filter>
     </Text>
-    <Text Include="전위연산 후위연산.txt">
-      <Filter>0. C++\7. 그외</Filter>
-    </Text>
-    <Text Include="순 운동학과 역 운동학.txt">
-      <Filter>5. DirectX</Filter>
-    </Text>
-    <Text Include="0-3. 시스템 콜.txt">
+    <Text Include="..\TXT_CS\0.0 CPU와 GPU.txt">
       <Filter>2. CS</Filter>
     </Text>
-    <Text Include="0-2. 커널.txt">
-      <Filter>2. CS</Filter>
+    <Text Include="..\TXT_CC++\레퍼런스.txt">
+      <Filter>0. C++\4. 포인터</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\auto.txt">
+      <Filter>0. C++\6. 데이터 타입</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\decltype.txt">
+      <Filter>0. C++\6. 데이터 타입</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-5. LOD.txt">
+      <Filter>5. DirectX\2. 셰이더</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-3. PBR.txt">
+      <Filter>5. DirectX\2. 셰이더</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-1. 렌더링 파이프라인.txt">
+      <Filter>5. DirectX\1. 셰이더 개요</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-2. 공간 변환 과정.txt">
+      <Filter>5. DirectX\1. 셰이더 개요</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-3. 클리핑과 컬링.txt">
+      <Filter>5. DirectX\1. 셰이더 개요</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-0. 셰이더.txt">
+      <Filter>5. DirectX\1. 셰이더 개요</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-4. 앨리어싱.txt">
+      <Filter>5. DirectX\2. 셰이더</Filter>
+    </Text>
+    <Text Include="2-1. 포워드 셰이더.txt">
+      <Filter>5. DirectX\2. 셰이더</Filter>
+    </Text>
+    <Text Include="2-2. 디퍼드 셰이더.txt">
+      <Filter>5. DirectX\2. 셰이더</Filter>
+    </Text>
+    <Text Include="퍼펙트 포워드.txt">
+      <Filter>0. C++\1. 이동과 복사</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\순 운동학과 역 운동학.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-5. UV매핑.txt">
+      <Filter>5. DirectX\1. 셰이더 개요</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-4. 텍스쳐txt.txt">
+      <Filter>5. DirectX\1. 셰이더 개요</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-6. 스카이박스 렌더링.txt">
+      <Filter>5. DirectX\1. 셰이더 개요</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
@@ -434,10 +477,5 @@
     <Image Include="..\TXT_NETWORK\Img\3way_handshake.jpg">
       <Filter>3. Network\Img</Filter>
     </Image>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\TXT_CS\3-2. 페이지 폴트, 교체, 쓰레싱.txt">
-      <Filter>2. CS</Filter>
-    </None>
   </ItemGroup>
 </Project>
