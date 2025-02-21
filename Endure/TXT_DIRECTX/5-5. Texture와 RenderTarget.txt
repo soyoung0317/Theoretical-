@@ -1,0 +1,1 @@
+Q. DirectX에서 Texture와 Render Target의 차이점은?

@@ -1,0 +1,35 @@
+Q. DirectX 11에서 D3D_FEATURE_LEVEL이란 무엇인가?
+
+-------------------------------------------------
+
+Q. DirectX 11에서 D3D_FEATURE_LEVEL이란 무엇인가?
+A. 
+	1. 정의
+		Direct3D에서 GPU(그래픽 카드)의 기능 수준(Feature Level)을 정의하는 열거형(Enum)으로, 특정 그래픽 카드가 지원하는 Direct3D 기능 집합을 나타낸다.
+
+	2. 왜 사용하는가?
+		(1) 하위 호환성을 제공하기 위해
+			DirectX 11은 DirectX 9, 10 세대의 그래픽 카드도 지원해야 한다.
+			D3D_FEATURE_LEVEL을 사용하면 DirectX 9/10 하드웨어에서도 DirectX 11 API를 사용할 수 있도록 허용할 수 있다.
+			예를 들어, Direct3D 11 API를 사용하더라도 하드웨어가 Direct3D 10 수준이면 D3D10 기능까지만 사용 가능하다.
+
+		(2) GPU가 지원하는 기능을 동적으로 결정하기 위해
+			다양한 하드웨어 환경에서 실행되는 애플리케이션(게임 등)은 실행 시점에 GPU가 지원하는 기능을 확인하고 이에 맞춰 렌더링 방법을 조절해야 한다.
+			예를 들어, 고급 그래픽 효과(테셀레이션, Compute Shader)를 사용할 수 있는지 여부를 판별하려면 D3D_FEATURE_LEVEL을 확인해야 한다.
+
+		[예시]
+			DirectX 11 API를 사용한다고 해도, 하드웨어가 D3D_FEATURE_LEVEL_10_0만 지원하면 테셀레이션 같은 DirectX 11의 핵심 기능을 사용할 수 없다.
+
+	3. 목록
+		Feature Level			지원 DirectX 버전		주요 지원 기능
+		D3D_FEATURE_LEVEL_12_1	DirectX 12				최신 하드웨어 기능 (Raytracing, Conservative Rasterization 등)
+		D3D_FEATURE_LEVEL_12_0	DirectX 12				Volume Tiled Resources, Typed UAV Load 지원
+		D3D_FEATURE_LEVEL_11_1	DirectX 11.1			Shader Model 5.0, UAV (Unordered Access View) 지원
+		D3D_FEATURE_LEVEL_11_0	DirectX 11.0			테셀레이션(Tessellation), Compute Shader 5.0 지원
+		D3D_FEATURE_LEVEL_10_1	DirectX 10.1			Shader Model 4.1, MSAA 개선
+		D3D_FEATURE_LEVEL_10_0	DirectX 10.0			Geometry Shader, Stream Output 지원
+		D3D_FEATURE_LEVEL_9_3	DirectX 9.0c			Shader Model 3.0, Instancing 지원
+		D3D_FEATURE_LEVEL_9_2	DirectX 9.0b			Shader Model 2.0 지원
+		D3D_FEATURE_LEVEL_9_1	DirectX 9.0a			고정 기능 파이프라인(Fixed-Function) 중심
+		
+-------------------------------------------------

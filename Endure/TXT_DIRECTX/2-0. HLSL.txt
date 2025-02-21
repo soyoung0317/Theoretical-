@@ -1,0 +1,8 @@
+Q. HLSL(High-Level Shader Language)이란 무엇인가?
+
+-------------------------------------------------
+
+Q. HLSL(High-Level Shader Language)이란 무엇인가?
+A.
+	1. 정의
+		

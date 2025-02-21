@@ -1,0 +1,6 @@
+Q. Quaternion과 Euler Angle의 차이점은?
+
+Q. Quaternion을 이용한 회전 보간(SLERP)이 필요한 이유는?
+
+Q. 짐벌락에 대해 설명하시오
+

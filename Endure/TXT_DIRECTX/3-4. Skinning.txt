@@ -1,0 +1,1 @@
+Q. Skinning에 대해 설명하시오 CPU Skinning과 GPU Skinning의 차이점은?

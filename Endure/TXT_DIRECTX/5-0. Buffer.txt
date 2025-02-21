@@ -1,0 +1,1 @@
+Q. DirectX 11에서 Buffer 종류(Vertex Buffer, Index Buffer, Constant Buffer 등)의 차이점은?

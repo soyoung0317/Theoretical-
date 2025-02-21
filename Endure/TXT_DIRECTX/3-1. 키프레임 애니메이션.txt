@@ -1,0 +1,5 @@
+Q. 키프레임 애니메이션(Keyframe Animation)이란 무엇인가?
+
+Q. Skeletal Animation과 Keyframe Animation의 차이점은?
+
+Q. DirectX에서 키프레임 애니메이션을 구현하는 방식은?

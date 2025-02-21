@@ -1,0 +1,1 @@
+Q. DirectX 11에서 Resource Binding 방식(Constant Buffer, Shader Resource View 등)이 성능에 미치는 영향은?
