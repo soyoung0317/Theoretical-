@@ -189,13 +189,13 @@
     <Text Include="..\TXT_CC++\explicit.txt">
       <Filter>0. C++\7. 그외</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_Is-a Has-a.txt">
+    <Text Include="..\TXT_CC++\Is-a Has-a.txt">
       <Filter>0. C++\2. 클래스</Filter>
     </Text>
     <Text Include="..\TXT_CC++\_volatile.txt">
       <Filter>0. C++\7. 그외</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_추상클래스.txt">
+    <Text Include="..\TXT_CC++\추상클래스.txt">
       <Filter>0. C++\2. 클래스</Filter>
     </Text>
     <Text Include="..\TXT_CC++\깊은복사와 얕은복사.txt">
@@ -405,40 +405,16 @@
     <Text Include="..\TXT_CC++\decltype.txt">
       <Filter>0. C++\6. 데이터 타입</Filter>
     </Text>
-    <Text Include="퍼펙트 포워드.txt">
-      <Filter>0. C++\1. 이동과 복사</Filter>
-    </Text>
     <Text Include="..\TXT_CC++\함수호출규약.txt">
       <Filter>0. C++\7. 그외</Filter>
     </Text>
-    <Text Include="..\TXT_DIRECTX\0. DirectX.txt">
-      <Filter>5. DirectX\0. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\0. 전체 질문 리스트.txt">
-      <Filter>5. DirectX\0. DirectX</Filter>
-    </Text>
     <Text Include="..\TXT_DIRECTX\0-1. D3D_FEATURE_LEVEL.txt">
-      <Filter>5. DirectX\0. DirectX</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\0-2. DirectX의 컴포넌트.txt">
       <Filter>5. DirectX\0. DirectX</Filter>
     </Text>
     <Text Include="..\TXT_DIRECTX\1-0. 셰이더.txt">
       <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
     </Text>
     <Text Include="..\TXT_DIRECTX\1-1. 렌더링 파이프라인.txt">
-      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\1-2. 렌더링파이프라인 비교.txt">
-      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\1-3. 공간 변환 과정.txt">
-      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\1-4. 뷰와 투영함수.txt">
-      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\1-5. 레스터화 과정.txt">
       <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
     </Text>
     <Text Include="..\TXT_DIRECTX\2-0. HLSL.txt">
@@ -456,26 +432,94 @@
     <Text Include="..\TXT_DIRECTX\2-5. Shadow.txt">
       <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
     </Text>
-    <Text Include="..\TXT_DIRECTX\2-6. PBR.txt">
-      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\2-7. HBAO.txt">
-      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\2-8. HDR.txt">
-      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\2-9. Ray tracing.txt">
-      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\2-5. 스카이박스 렌더링.txt">
-      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
-    </Text>
-    <Text Include="..\TXT_DIRECTX\2-9. 앨리어싱.txt">
-      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
-    </Text>
     <Text Include="..\TXT_DIRECTX\2-4.. 조명연산.txt">
       <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\6-8. billboard.txt" />
+    <Text Include="..\TXT_DIRECTX\6-9. Ray tracing.txt" />
+    <Text Include="..\TXT_DIRECTX\4-0. 프로파일링 도구.txt" />
+    <Text Include="..\TXT_DIRECTX\4-1. 그래픽 성능 최적화 방식.txt" />
+    <Text Include="..\TXT_DIRECTX\4-2. Shader Resource View.txt" />
+    <Text Include="..\TXT_DIRECTX\4-3. CPU와 GPU간의 동기화 문제.txt" />
+    <Text Include="..\TXT_DIRECTX\4-4. Draw Call.txt" />
+    <Text Include="..\TXT_DIRECTX\4-5. 클리핑과 컬링.txt" />
+    <Text Include="..\TXT_DIRECTX\4-6. LOD.txt" />
+    <Text Include="..\TXT_DIRECTX\5-0. Buffer.txt" />
+    <Text Include="..\TXT_DIRECTX\5-1. 텍스쳐txt.txt" />
+    <Text Include="..\TXT_DIRECTX\5-2. 노말맵.txt" />
+    <Text Include="..\TXT_DIRECTX\5-3. 깊이버퍼.txt" />
+    <Text Include="..\TXT_DIRECTX\5-4. UV매핑.txt" />
+    <Text Include="..\TXT_DIRECTX\5-5. Texture와 RenderTarget.txt" />
+    <Text Include="..\TXT_DIRECTX\6-1. HeightMap.txt" />
+    <Text Include="..\TXT_DIRECTX\6-0. ImGui.txt" />
+    <Text Include="..\TXT_DIRECTX\6-2. 마우스 피킹.txt" />
+    <Text Include="..\TXT_DIRECTX\6-3. 슬라이딩 벡터.txt" />
+    <Text Include="..\TXT_DIRECTX\6-4. 인스턴싱.txt" />
+    <Text Include="..\TXT_DIRECTX\0-0. DirectX.txt">
+      <Filter>5. DirectX\0. DirectX</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-2. 공간 변환 과정.txt">
+      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-3. 뷰와 투영함수.txt">
+      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-4. 카메라.txt">
+      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-5. 깊이테스트.txt">
+      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\1-7. z-fighting.txt">
+      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-6. skybox.txt">
+      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-7. PBR.txt">
+      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-8. HBAO.txt">
+      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-9. HDR.txt">
+      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-10. 앨리어싱.txt">
+      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\2-11. Outline.txt">
+      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-0. fbx 파일 로드.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-1. 애니메이션 제어.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-1. 키프레임 애니메이션.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-2. Bone.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-3. 루트 애니메이션.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-4. Skinning.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-5. IK와 FK.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-6. 보간.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-7. 애니메이션 컬링.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
+    </Text>
+    <Text Include="..\TXT_DIRECTX\3-8. 쿼너니언과 오일러.txt">
+      <Filter>5. DirectX\3. 애니메이션</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
@@ -503,5 +547,15 @@
     <Image Include="..\TXT_NETWORK\Img\3way_handshake.jpg">
       <Filter>3. Network\Img</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\TXT_DIRECTX\6-5. RayCasting.txt" />
+    <None Include="..\TXT_DIRECTX\6-10. 수직통기화.txt" />
+    <None Include="..\TXT_DIRECTX\1-6. 알파 블렌딩.txt">
+      <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
+    </None>
+    <None Include="..\TXT_DIRECTX\2-12. 소프트 파티클.txt">
+      <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
+    </None>
   </ItemGroup>
 </Project>

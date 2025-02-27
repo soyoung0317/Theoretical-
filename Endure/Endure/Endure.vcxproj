@@ -154,11 +154,11 @@
     <Text Include="..\TXT_CC++\STL기본.txt" />
     <Text Include="..\TXT_CC++\this.txt" />
     <Text Include="..\TXT_CC++\using.txt" />
-    <Text Include="..\TXT_CC++\_Is-a Has-a.txt" />
+    <Text Include="..\TXT_CC++\Is-a Has-a.txt" />
     <Text Include="..\TXT_CC++\L-Value vs R-Value.txt" />
     <Text Include="..\TXT_CC++\_volatile.txt" />
     <Text Include="..\TXT_CC++\깊은복사와 얕은복사.txt" />
-    <Text Include="..\TXT_CC++\_추상클래스.txt" />
+    <Text Include="..\TXT_CC++\추상클래스.txt" />
     <Text Include="..\TXT_CC++\_템플릿.txt" />
     <Text Include="..\TXT_CC++\포인터.txt" />
     <Text Include="..\TXT_CC++\가상함수.txt" />
@@ -215,7 +215,6 @@
     <Text Include="..\TXT_CS\0.0 CPU와 GPU.txt" />
     <Text Include="..\TXT_DIRECTX\0-1. D3D_FEATURE_LEVEL.txt" />
     <Text Include="..\TXT_DIRECTX\0-0. DirectX.txt" />
-    <Text Include="..\TXT_DIRECTX\0. 전체 질문 리스트.txt" />
     <Text Include="..\TXT_DIRECTX\1-0. 셰이더.txt" />
     <Text Include="..\TXT_DIRECTX\1-1. 렌더링 파이프라인.txt" />
     <Text Include="..\TXT_DIRECTX\1-2. 공간 변환 과정.txt" />
@@ -290,7 +289,6 @@
     <Text Include="..\TXT_TOTAL\Network.txt" />
     <Text Include="..\TXT_TOTAL\STL.txt" />
     <Text Include="전위연산 후위연산.txt" />
-    <Text Include="퍼펙트 포워드.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\TXT_CS\image\Cashe Memory.png" />

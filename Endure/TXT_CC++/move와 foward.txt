@@ -1,13 +1,19 @@
 Q. move 와 foward에 대해 설명하시오 
 
+Q. std::forward<T>(arg)는 어떻게 lvalue와 rvalue를 구분하나요?
+
 -------------------------------------------------
 
+Q. move 와 foward에 대해 설명하시오 
 A.	
 	1. std::move()
 		무조건 rvalue로 변환하는 함수
 		객체의 소유권(Ownership)을 이전할 때 사용된다.
 		이동 생성자(Move Constructor) 또는 이동 할당 연산자(Move Assignment Operator)에서 많이 사용됨.
 		템플릿 지원 불가능
+
+		장점: 불필요한 복사를 방지하고 자원을 효율적으로 이동시킬 수 있어 성능을 향상시킵니다.
+		단점: 이동 후 원본 객체는 정의되지 않은 상태로 남게 되며, 원본 객체를 사용할 수 없습니다.
 
 		1) 사용예시
 		vector - push_back함수 
@@ -16,5 +22,28 @@ A.
 			rvalue를 넣으면 → 이동(move)
 
 	2. std::foward()
-		퍼펙트 포워딩을 위해 원래 타입(lvalue or rvalue)을 유지하면서 전달하는 함수
-		템플릿 함수에서 인자의 속성을 보존할 때 사용된다.
+		완벽 전달(Perfect Forwarding)을 구현하는 데 사용됩니다. 주로 템플릿 함수에서 인수로 전달받은 객체의 값을 "그대로" 전달하기 위해 사용됩니다. 
+		
+		템플릿 함수에서 함수 인자 전달 시, rvalue일 때는 이동을, lvalue일 때는 복사를 수행해야 합니다. 
+		std::forward는 이 요구사항을 처리해 주며, 템플릿을 작성할 때 완벽하게 인수를 전달할 수 있게 합니다.
+
+	3. 정리
+		std::move:
+			객체를 rvalue로 변환하여 이동을 유도합니다.
+			주로 **이동 의미론(Move Semantics)**에서 사용됩니다.
+			예시: std::move(obj) -> obj의 자원을 다른 곳으로 이동.
+
+		std::forward:
+			완벽 전달(Perfect Forwarding)을 구현하여, 템플릿 함수에서 인자를 그대로 전달합니다.
+			전달된 인자의 원래 값을 보존하면서 적절한 형태로 전달됩니다.
+			예시: std::forward<T>(arg) -> 전달받은 인자 arg를 원래의 상태로 전달.
+			
+-------------------------------------------------
+			
+Q. std::forward<T>(arg)는 어떻게 lvalue와 rvalue를 구분하나요?
+A.
+	템플릿 함수에서 T&&는 유니버설 참조(universal reference) 또는 퍼펙트 포워딩 참조로 알려져 있습니다. 
+	유니버설 참조는 전달된 인자가 lvalue일 때와 rvalue일 때 다르게 동작합니다:
+
+	lvalue가 전달되면 T&&는 lvalue 참조로 처리됩니다. 이때 T는 T&를 포함한 타입으로 결정됩니다.
+	rvalue가 전달되면 T&&는 rvalue 참조로 처리됩니다.
