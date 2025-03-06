@@ -222,18 +222,18 @@
     <Text Include="..\TXT_DIRECTX\1-5. 깊이테스트.txt" />
     <Text Include="..\TXT_DIRECTX\1-7. z-fighting.txt" />
     <Text Include="..\TXT_DIRECTX\6-8. billboard.txt" />
-    <Text Include="..\TXT_DIRECTX\2-4.. 조명연산.txt" />
+    <Text Include="..\TXT_DIRECTX\2-5.. 조명연산.txt" />
     <Text Include="..\TXT_DIRECTX\2-0. HLSL.txt" />
-    <Text Include="..\TXT_DIRECTX\2-1. 텍스처 필터링.txt" />
-    <Text Include="..\TXT_DIRECTX\2-2. Forward Rendering.txt" />
-    <Text Include="..\TXT_DIRECTX\2-3. Deferred Rendering.txt" />
-    <Text Include="..\TXT_DIRECTX\2-5. Shadow.txt" />
-    <Text Include="..\TXT_DIRECTX\2-7. PBR.txt" />
-    <Text Include="..\TXT_DIRECTX\2-8. HBAO.txt" />
-    <Text Include="..\TXT_DIRECTX\2-9. HDR.txt" />
+    <Text Include="..\TXT_DIRECTX\2-2. 텍스처 필터링.txt" />
+    <Text Include="..\TXT_DIRECTX\2-3. Forward Rendering.txt" />
+    <Text Include="..\TXT_DIRECTX\2-4. Deferred Rendering.txt" />
+    <Text Include="..\TXT_DIRECTX\2-6. Shadow.txt" />
+    <Text Include="..\TXT_DIRECTX\2-8. PBR.txt" />
+    <Text Include="..\TXT_DIRECTX\2-9. HBAO.txt" />
+    <Text Include="..\TXT_DIRECTX\2-10. HDR.txt" />
     <Text Include="..\TXT_DIRECTX\6-9. Ray tracing.txt" />
-    <Text Include="..\TXT_DIRECTX\2-6. skybox.txt" />
-    <Text Include="..\TXT_DIRECTX\2-10. 앨리어싱.txt" />
+    <Text Include="..\TXT_DIRECTX\2-7. skybox.txt" />
+    <Text Include="..\TXT_DIRECTX\2-11. 앨리어싱.txt" />
     <Text Include="..\TXT_DIRECTX\3-0. fbx 파일 로드.txt" />
     <Text Include="..\TXT_DIRECTX\3-1. 애니메이션 제어.txt" />
     <Text Include="..\TXT_DIRECTX\3-1. 키프레임 애니메이션.txt" />
@@ -263,7 +263,15 @@
     <Text Include="..\TXT_DIRECTX\3-7. 애니메이션 컬링.txt" />
     <Text Include="..\TXT_DIRECTX\6-4. 인스턴싱.txt" />
     <Text Include="..\TXT_DIRECTX\1-4. 카메라.txt" />
-    <Text Include="..\TXT_DIRECTX\2-11. Outline.txt" />
+    <Text Include="..\TXT_DIRECTX\2-12. Outline.txt" />
+    <Text Include="..\TXT_DIRECTX\1-8. Tangent Space.txt" />
+    <Text Include="..\TXT_DOC\All.txt" />
+    <Text Include="..\TXT_MATH\angle functions.txt" />
+    <Text Include="..\TXT_MATH\Euler Angle &amp; Quaternion.txt" />
+    <Text Include="..\TXT_MATH\internal and external.txt" />
+    <Text Include="..\TXT_MATH\Quaternion.txt" />
+    <Text Include="..\TXT_MATH\Rigid Body.txt" />
+    <Text Include="..\TXT_MATH\Rotation.txt" />
     <Text Include="..\TXT_NETWORK\TCP, UDP.txt" />
     <Text Include="..\TXT_NETWORK\비트와 바이트.txt" />
     <Text Include="..\TXT_NETWORK\빅 엔디안과 리틀 엔디안.txt" />
@@ -302,7 +310,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\TXT_DIRECTX\1-6. 알파 블렌딩.txt" />
-    <None Include="..\TXT_DIRECTX\2-12. 소프트 파티클.txt" />
+    <None Include="..\TXT_DIRECTX\2-1. Texture.txt" />
+    <None Include="..\TXT_DIRECTX\2-13. 소프트 파티클.txt" />
     <None Include="..\TXT_DIRECTX\6-5. RayCasting.txt" />
     <None Include="..\TXT_DIRECTX\6-10. 수직통기화.txt" />
   </ItemGroup>
