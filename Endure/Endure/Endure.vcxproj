@@ -264,7 +264,7 @@
     <Text Include="..\TXT_DIRECTX\6-4. 인스턴싱.txt" />
     <Text Include="..\TXT_DIRECTX\1-4. 카메라.txt" />
     <Text Include="..\TXT_DIRECTX\2-12. Outline.txt" />
-    <Text Include="..\TXT_DIRECTX\1-8. Tangent Space.txt" />
+    <Text Include="..\TXT_DIRECTX\1-8. w값.txt" />
     <Text Include="..\TXT_DOC\All.txt" />
     <Text Include="..\TXT_MATH\angle functions.txt" />
     <Text Include="..\TXT_MATH\Euler Angle &amp; Quaternion.txt" />
@@ -314,6 +314,7 @@
     <None Include="..\TXT_DIRECTX\2-13. 소프트 파티클.txt" />
     <None Include="..\TXT_DIRECTX\6-5. RayCasting.txt" />
     <None Include="..\TXT_DIRECTX\6-10. 수직통기화.txt" />
+    <None Include="1-9. 버퍼.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
