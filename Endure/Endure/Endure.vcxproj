@@ -223,7 +223,7 @@
     <Text Include="..\TXT_DIRECTX\1-7. z-fighting.txt" />
     <Text Include="..\TXT_DIRECTX\6-8. billboard.txt" />
     <Text Include="..\TXT_DIRECTX\2-5.. 조명연산.txt" />
-    <Text Include="..\TXT_DIRECTX\2-0. HLSL.txt" />
+    <Text Include="..\TXT_DIRECTX\2-0. 각종 벡터.txt" />
     <Text Include="..\TXT_DIRECTX\2-2. 텍스처 필터링.txt" />
     <Text Include="..\TXT_DIRECTX\2-3. Forward Rendering.txt" />
     <Text Include="..\TXT_DIRECTX\2-4. Deferred Rendering.txt" />

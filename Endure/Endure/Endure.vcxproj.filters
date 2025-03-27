@@ -426,7 +426,7 @@
     <Text Include="..\TXT_DIRECTX\1-1. 렌더링 파이프라인.txt">
       <Filter>5. DirectX\1. 그래픽 파이프라인</Filter>
     </Text>
-    <Text Include="..\TXT_DIRECTX\2-0. HLSL.txt">
+    <Text Include="..\TXT_DIRECTX\2-0. 각종 벡터.txt">
       <Filter>5. DirectX\2. 셰이더 프로그래밍</Filter>
     </Text>
     <Text Include="..\TXT_DIRECTX\2-2. 텍스처 필터링.txt">

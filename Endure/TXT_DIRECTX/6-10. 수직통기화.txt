@@ -1,6 +1,7 @@
 Q. 수직 동기화(V-Sync, Vertical Synchronization)에 대해 설명하시오. 
 
 Q. 화면 찢어짐(Tearing)이란?
+
 -------------------------------------------------
 
 Q. 수직 동기화(V-Sync, Vertical Synchronization)에 대해 설명하시오. 
