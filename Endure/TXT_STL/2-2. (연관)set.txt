@@ -1,0 +1,37 @@
+Q. set에 대해 설명하시오 
+
+-------------------------------------------------
+
+A.	
+	1. 정의
+		중복 없는 원소들을 저장
+		원소들은 자동 정렬됨 (기본: 오름차순)
+		내부적으로 Red-Black Tree (이진 탐색 트리) 로 구현
+
+	2. 주요 특징
+		- 중복 X : 같은 값을 여러 번 넣어도 한 번만 저장
+		- 정렬됨	 : 자동으로 오름차순 정렬됨 (std::greater<>로 내림차순 가능)
+		- 시간 복잡도 : 삽입, 삭제, 탐색 모두 O(log n)
+		- 내부 구조 : Red-Black Tree (map과 동일 구조)
+
+	3. 주요 함수
+		insert(val) : 값 삽입 (중복 안 됨)
+		erase(val) : 값 제거
+		find(val) : iterator 반환 (없으면 end())
+		count(val) : 존재 여부 반환 (0 또는 1)
+		clear() : 전체 삭제
+		size() : 원소 개수
+		empty() : 비었는지 확인
+
+		lower_bound(val) : val 이상인 첫 원소 iterator
+		upper_bound(val) : val 초과인 첫 원소 iterator
+
+	4. 커스텀 정렬
+		std::set<int, std::greater<>> s;  // 내림차순 정렬
+	
+	struct Descend {
+	    bool operator()(int a, int b) const {
+	        return a > b;
+	    }
+	};
+	std::set<int, Descend> s;

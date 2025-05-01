@@ -1,33 +1,59 @@
-﻿#include <iostream>
-#include <vector>
+﻿#include <iostream>#include <bits/stdc++.h>
 
 using namespace std;
 
-class Test {
-public:
-    Test() { std::cout << "Constructor\n"; }
-    Test(const Test&) { std::cout << "Copy Constructor\n"; }
-    Test(Test&&) noexcept { std::cout << "Move Constructor\n"; }
-};
+void insert(int idx, int num, int arr[], int& len) {
 
-// 복사 (lvalue) 오버로딩
-void push_to_vector(std::vector<Test>& vec, const Test& obj) {
-    std::cout << "[push_to_vector] Copy Version\n";
-    vec.push_back(obj);
+	if (idx < 0)
+		return;
+	
+	int temp;
+	
+	for (int i = len; i > idx; --i)
+	{
+
+	}
+
+	arr[idx] = num;
+	
+	++len;
 }
 
-// 이동 (rvalue) 오버로딩
-void push_to_vector(std::vector<Test>& vec, Test&& obj) {
-    std::cout << "[push_to_vector] Move Version\n";
-    vec.push_back(obj); 
+
+void erase(int idx, int arr[], int& len) {
+
 }
 
-int main() {
-    std::vector<Test> vec;
+void printArr(int arr[], int& len) {
+	for (int i = 0; i < len; i++) cout << arr[i] << ' ';
+	cout << "\n\n";
+}
 
-    Test a;  // 생성자 호출
-    push_to_vector(vec, a);   // lvalue → 복사 발생
+void insert_test() {
+	cout << "***** insert_test *****\n";
+	int arr[10] = { 10, 20, 30 };
+	int len = 3; // 현재 배열의 길이 
+	insert(3, 40, arr, len); // 10 20 30 40
+	printArr(arr, len);
+	insert(1, 50, arr, len); // 10 50 20 30 40
+	printArr(arr, len);
+	insert(0, 15, arr, len); // 15 10 50 20 30 40
+	printArr(arr, len);
+}
 
-    cout << endl;
-    push_to_vector(vec, Test()); // rvalue → 이동 발생
+void erase_test() {
+	cout << "***** erase_test *****\n";
+	int arr[10] = { 10, 50, 40, 30, 70, 20 };
+	int len = 6;
+	erase(4, arr, len); // 10 50 40 30 20
+	printArr(arr, len);
+	erase(1, arr, len); // 10 40 30 20
+	printArr(arr, len);
+	erase(3, arr, len); // 10 40 30
+	printArr(arr, len);
+}
+
+int main(void) {
+	insert_test();
+	erase_test();
 }
