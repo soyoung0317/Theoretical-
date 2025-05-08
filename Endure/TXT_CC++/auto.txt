@@ -42,6 +42,9 @@ A.
 		auto는 기본적으로 const와 &를 제거한 타입을 추론합니다.
 		하지만 auto&나 auto&&를 사용하면 원본의 const 및 참조 속성이 유지됩니다.
 		즉, auto만 쓰면 const와 &가 제거되지만, auto&나 auto&&는 제거되지 않습니다.
+
+		[+] 배열이나 함수는 포인터로 변환(decay) 됩니다. 하지만 참조를 사용하면 decay를 막을 수 있습니다.
+
 		[정리]
 		선언 방식		rvalue 가능?		lvalue 가능?		타입 추론 결과
 		auto			가능				가능				int, double 등 값 타입
@@ -72,6 +75,12 @@ A.
 	auto&& c = rx;			// int&
 	auto&& d = cry;			// const int&
 	auto&& e = 30;			// int&& (우값 참조)
+
+	const char name[] = "TEST";
+
+	auto arr1 = name;  // 배열은 포인터로 변환 const char*
+	auto& arr2 = name;  // 배열 참조 그대로 유지 const char(&)[8] = const char 타입 원소가 8개 있는 배열에 대한 참조(&)
+
 -------------------------------------------------------
 
 Q. auto를 사용할 때 타입 추론이 어떻게 이루어지는가?
@@ -112,10 +121,22 @@ A.
 
 Q.	auto temp = 0; 에서 temp가 int인지 bool인지를 어떻게 판단하는가 ?
 A. 
+	auto는 우변(오른쪽 값)의 정확한 타입을 그대로 가져옵니다
+	따라서 0의경우 c++ 에서 int로 정의하고있기때문에 int값으로 정의됩니다. 
 
+	bool값이 정의되려면 true, false 또는 ==, &&, || 같은 논리 연산의 결과가 우변에 있을 때 auto는 bool로 추론됩니다.
+
+	auto temp = 0;			//	int		0은 int 리터럴
+	auto temp = false;		//	bool	false는 bool 리터럴
+	auto temp = (1 < 2);	//	bool	비교식 결과는 bool -> true
+	auto temp = (1 == 2);   //	bool	논리연산 결과는 bool -> false
 -------------------------------------------------------
 
-Q. auto* A = Derived* B; 에서 A의 타입은?
+[질문 - 이해안감]
+Q.  auto* A = Derived* B; 에서 A의 타입은?
 A.	auto 는 컴파일타임에 이루어지기때문에 우선 부모 클래스로 컴파일을 한뒤, 
 	런타임에 RTTI를 통해 자식클래스인지 부모클래스인지 확인한다. 
+
+	auto는 상속과 무관하게 "우변의 정확한 타입 그대로"를 사용합니다.
+
 -------------------------------------------------------

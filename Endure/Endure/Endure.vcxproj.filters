@@ -642,6 +642,12 @@
     <Text Include="..\TXT_CC++\표준 라이브러리 알고리즘.txt">
       <Filter>0. C++\7. 알고리즘</Filter>
     </Text>
+    <Text Include="..\TXT_CC++\const.txt">
+      <Filter>0. C++\6. 데이터 타입</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\메모리 누수.txt">
+      <Filter>0. C++\8. 그외</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\TXT_CS\image\인터럽트 처리 과정.png">

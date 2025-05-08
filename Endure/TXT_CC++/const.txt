@@ -1,0 +1,41 @@
+Q. C++에서 const에 대해 설명하시오 
+
+-------------------------------------------------------
+
+Q. C++에서 const에 대해 설명하시오 
+A.
+	1. 정의
+		const는 "변하지 않는 값"을 의미하며, 변수나 객체의 값을 수정하지 못하도록 제한하는 키워드입니다. 
+		컴파일 타임에 오류를 발생시켜 불변성을 보장합니다.
+
+	2. 특징
+		1. 컴파일 타임에 상수성 검사
+		2. 함수 시그니처의 일부로 간주 -> void func() const; 와 void func();는 다른 함수로 인식됨
+		3. 포인터의 const 위치에 따라 의미 달라짐
+		4. 멤버 함수에서 상태 변경 금지
+		5. 참조형 매개변수와 함께 자주 사용
+		6. 반환값 보호
+
+	3. 예시
+		상수 변수 선언:
+			const int MAX_SIZE = 100;  // 값이 변경될 수 없는 상수
+		포인터와 함께 사용:
+			const int* ptr;			// 주소 변경 가능 & 값 변경 불가
+			int* const ptr;			// 주소 변경 불가 & 값 변경 가능
+			const int* const ptr;	// 주소 변경 불가 & 값 변경 불가
+		함수 매개변수:
+			void func(const std::string& str) { /* str을 변경할 수 없음 */ }
+		클래스 메서드:
+			class MyClass {
+			public:
+			    int getValue() const { return value; }  // 이 메서드는 객체의 상태를 변경하지 않음
+			private:
+			    int value;
+			};
+		멤버 변수 초기화:
+			class MyClass {
+			private:
+			    const int MAX_SIZE;  // 상수 멤버 변수
+			public:
+			    MyClass() : MAX_SIZE(100) {}  // 초기화 리스트에서 초기화해야 함
+			};

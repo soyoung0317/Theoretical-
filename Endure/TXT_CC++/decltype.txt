@@ -10,6 +10,7 @@ Q. decltype에 대해 설명하시오
 A. 
 	1️. 정의
 		decltype은 C++11에서 도입된 키워드로, 주어진 표현식(변수, 함수 호출, 연산 등)의 정확한 타입을 추론할 때 사용된다.
+		decltype(expr)는 expr 표현식의 타입을 "정확하게" 반환한다. 
 
 	2️. 왜 사용하는가?
 		- 변수나 표현식의 정확한 타입을 추론하고 유지하기 위해
@@ -28,6 +29,7 @@ A.
 		decltype처럼 동작하면서, 더 유연하게 타입을 결정한다.
 
 	5. decltype을 활용한 템플릿 프로그래밍
+			
 			template <typename T1, typename T2>
 			auto add(T1 a, T2 b) -> decltype(a + b) {
 			    return a + b;
@@ -43,13 +45,30 @@ A.
 		}
 		- 이 방식은 반환 타입 추론을 decltype(a + b)처럼 정밀하게 수행하면서도 -> decltype(a + b)를 생략할 수 있다.
 
+	6. 중요 예시
+	 값 (Value)	, L-value 표현식, R-value 표현식 : 그대로 표현
+	 
+		int x = 10;
+		decltype(x) a;   // int
+		
+		int x = 10;
+		int& rx = x;
+		decltype(rx) b;     // int&
+		
+		decltype(10) c;     // int
+		decltype(x + 1) d;  // int
+		
+		int x = 10;
+		decltype(x)     a1 = x;   // int
+		decltype((x))   a2 = x;   // int& ← 주의!
+	
 -------------------------------------------------------
 
 Q.	auto와 decltype(auto)의 차이점
 A. 	auto와 decltype(auto) 모두 타입을 자동으로 추론하지만, 동작 방식이 다름.
 
-	auto			우변의 타입을 기반으로 추론하되, const 및 참조 제거	
-	decltype(auto)	표현식 전체의 타입을 유지	ref, const 유지됨
+	auto			: 우변의 타입을 기반으로 추론하되, const 및 참조 제거	
+	decltype(auto)	: 표현식 전체의 타입을 유지	ref, const 유지됨
 
 								auto									decltype(auto)
 		기본 타입 추론		const와 & 제거								원래 타입 유지

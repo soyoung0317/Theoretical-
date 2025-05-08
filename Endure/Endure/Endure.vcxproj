@@ -137,6 +137,7 @@
     <Text Include="..\TXT_CC++\auto.txt" />
     <Text Include="..\TXT_CC++\C++에 대하여.txt" />
     <Text Include="..\TXT_CC++\call by value.txt" />
+    <Text Include="..\TXT_CC++\const.txt" />
     <Text Include="..\TXT_CC++\constexpr.txt" />
     <Text Include="..\TXT_CC++\CRTP.txt" />
     <Text Include="..\TXT_CC++\decltype.txt" />
@@ -158,6 +159,7 @@
     <Text Include="..\TXT_CC++\L-Value vs R-Value.txt" />
     <Text Include="..\TXT_CC++\_volatile.txt" />
     <Text Include="..\TXT_CC++\깊은복사와 얕은복사.txt" />
+    <Text Include="..\TXT_CC++\메모리 누수.txt" />
     <Text Include="..\TXT_CC++\추상클래스.txt" />
     <Text Include="..\TXT_CC++\_템플릿.txt" />
     <Text Include="..\TXT_CC++\표준 라이브러리 알고리즘.txt" />
