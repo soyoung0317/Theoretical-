@@ -161,10 +161,10 @@
     <Text Include="..\TXT_CC++\깊은복사와 얕은복사.txt" />
     <Text Include="..\TXT_CC++\메모리 누수.txt" />
     <Text Include="..\TXT_CC++\추상클래스.txt" />
-    <Text Include="..\TXT_CC++\_템플릿.txt" />
+    <Text Include="..\TXT_CC++\템플릿.txt" />
     <Text Include="..\TXT_CC++\표준 라이브러리 알고리즘.txt" />
     <Text Include="..\TXT_CC++\포인터.txt" />
-    <Text Include="..\TXT_CC++\가상함수.txt" />
+    <Text Include="..\TXT_CC++\가상함수 virtual.txt" />
     <Text Include="..\TXT_CC++\개행.txt" />
     <Text Include="..\TXT_CC++\객체지향 프로그래밍.txt" />
     <Text Include="..\TXT_CC++\결합도.txt" />

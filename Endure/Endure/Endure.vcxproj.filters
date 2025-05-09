@@ -144,7 +144,7 @@
     <Text Include="..\TXT_CC++\L-Value vs R-Value.txt">
       <Filter>0. C++\1. 이동과 복사</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\_템플릿.txt">
+    <Text Include="..\TXT_CC++\템플릿.txt">
       <Filter>0. C++\5. 템플릿</Filter>
     </Text>
     <Text Include="..\TXT_CC++\포인터.txt">
@@ -192,7 +192,7 @@
     <Text Include="..\TXT_CC++\스마트 포인터.txt">
       <Filter>0. C++\4. 포인터</Filter>
     </Text>
-    <Text Include="..\TXT_CC++\가상함수.txt">
+    <Text Include="..\TXT_CC++\가상함수 virtual.txt">
       <Filter>0. C++\2. 클래스</Filter>
     </Text>
     <Text Include="..\TXT_CC++\오버로딩과 오버라이딩.txt">
