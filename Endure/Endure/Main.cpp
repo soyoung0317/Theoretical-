@@ -3,13 +3,32 @@
 
 using namespace std;
 
+class Base
+{
+public:
+	Base(){} ;
+	virtual ~Base() { Test(); };
+
+	virtual void Test() { cout << "Base Test" << endl; }
+
+};
+
+class Derived : public Base
+{
+public:
+	Derived() {};
+	virtual ~Derived() { Test(); temp(); };
+
+	virtual void Test() { cout << "Derived Test" << endl; }
+
+	void temp() { cout << "Derived Temp" << endl; }
+};
+
+
 int main()
 {
-
-	const char name[] = "TEST";
-
-	auto& arr2 = name;  // 배열 참조 그대로 유지 const char(&)[8]
-
+	Derived* A = new Derived;
+	delete A;
 
 	return 0;
 }
