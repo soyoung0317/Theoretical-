@@ -312,6 +312,17 @@
     <Text Include="..\TXT_TOTAL\CC++.txt" />
     <Text Include="..\TXT_TOTAL\Network.txt" />
     <Text Include="..\TXT_TOTAL\STL.txt" />
+    <Text Include="..\TXT_UNREAL\0-0. C++과 블루프린트.txt" />
+    <Text Include="..\TXT_UNREAL\1-0. Actor, Pawn, Character.txt" />
+    <Text Include="..\TXT_UNREAL\Async, 비동기.txt" />
+    <Text Include="..\TXT_UNREAL\Garbage Collector.txt" />
+    <Text Include="..\TXT_UNREAL\Replication.txt" />
+    <Text Include="..\TXT_UNREAL\UObject와 AActor.txt" />
+    <Text Include="..\TXT_UNREAL\네트워크 패킷.txt" />
+    <Text Include="..\TXT_UNREAL\머터리얼과 셰이더.txt" />
+    <Text Include="..\TXT_UNREAL\버그 및 이슈트래킹.txt" />
+    <Text Include="..\TXT_UNREAL\신규기능(Nanite, Lumen).txt" />
+    <Text Include="..\TXT_UNREAL\이벤트_델리게이트.txt" />
     <Text Include="전위연산 후위연산.txt" />
   </ItemGroup>
   <ItemGroup>
