@@ -275,9 +275,15 @@
     <Text Include="..\TXT_MATH\Quaternion.txt" />
     <Text Include="..\TXT_MATH\Rigid Body.txt" />
     <Text Include="..\TXT_MATH\Rotation.txt" />
+    <Text Include="..\TXT_NETWORK\ACK, SYN.txt" />
+    <Text Include="..\TXT_NETWORK\네트워크.txt" />
     <Text Include="..\TXT_NETWORK\TCP, UDP.txt" />
+    <Text Include="..\TXT_NETWORK\동기화.txt" />
     <Text Include="..\TXT_NETWORK\비트와 바이트.txt" />
     <Text Include="..\TXT_NETWORK\빅 엔디안과 리틀 엔디안.txt" />
+    <Text Include="..\TXT_NETWORK\소켓.txt" />
+    <Text Include="..\TXT_NETWORK\지연%28Latency%29.txt" />
+    <Text Include="..\TXT_NETWORK\클라이언트-서버.txt" />
     <Text Include="..\TXT_STL\0-0. 컨테이너.txt" />
     <Text Include="..\TXT_STL\0-1. 상등성과 동등성.txt" />
     <Text Include="..\TXT_STL\0-3. 이진탐색.txt" />

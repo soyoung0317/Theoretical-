@@ -92,6 +92,15 @@
     <Filter Include="8. 인성 문제">
       <UniqueIdentifier>{ce566ade-88eb-4a8e-acfe-8cf3d3cbc787}</UniqueIdentifier>
     </Filter>
+    <Filter Include="5. Network\0. 기본 개념">
+      <UniqueIdentifier>{a38c9dd5-12db-4c22-aa8c-93e07b49b81b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5. Network\1. 프로그래밍 문제">
+      <UniqueIdentifier>{fca69b46-7b08-4cb6-9108-5e4dd9403faa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5. Network\2. 네트워크 최적화 및 안정성">
+      <UniqueIdentifier>{be964e17-b6e3-403b-8e29-b8e865d55c69}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -365,15 +374,6 @@
     </Text>
     <Text Include="..\TXT_CS\6-1. 메모리관리.txt">
       <Filter>2. CS</Filter>
-    </Text>
-    <Text Include="..\TXT_NETWORK\TCP, UDP.txt">
-      <Filter>5. Network</Filter>
-    </Text>
-    <Text Include="..\TXT_NETWORK\비트와 바이트.txt">
-      <Filter>5. Network</Filter>
-    </Text>
-    <Text Include="..\TXT_NETWORK\빅 엔디안과 리틀 엔디안.txt">
-      <Filter>5. Network</Filter>
     </Text>
     <Text Include="..\TXT_CS\0.0 CPU와 GPU.txt">
       <Filter>2. CS</Filter>
@@ -680,6 +680,33 @@
     </Text>
     <Text Include="..\TXT_UNREAL\버그 및 이슈트래킹.txt">
       <Filter>4. 언리얼</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\ACK, SYN.txt">
+      <Filter>5. Network\0. 기본 개념</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\TCP, UDP.txt">
+      <Filter>5. Network\0. 기본 개념</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\빅 엔디안과 리틀 엔디안.txt">
+      <Filter>5. Network\0. 기본 개념</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\비트와 바이트.txt">
+      <Filter>5. Network\0. 기본 개념</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\네트워크.txt">
+      <Filter>5. Network\2. 네트워크 최적화 및 안정성</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\동기화.txt">
+      <Filter>5. Network\1. 프로그래밍 문제</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\소켓.txt">
+      <Filter>5. Network\2. 네트워크 최적화 및 안정성</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\지연%28Latency%29.txt">
+      <Filter>5. Network\2. 네트워크 최적화 및 안정성</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\클라이언트-서버.txt">
+      <Filter>5. Network\0. 기본 개념</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
