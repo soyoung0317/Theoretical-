@@ -708,6 +708,33 @@
     <Text Include="..\TXT_NETWORK\클라이언트-서버.txt">
       <Filter>5. Network\0. 기본 개념</Filter>
     </Text>
+    <Text Include="..\TXT_MATH\아핀변환.txt">
+      <Filter>7. 게임수학</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\외삽.txt">
+      <Filter>5. Network\1. 프로그래밍 문제</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\패킷.txt">
+      <Filter>5. Network\0. 기본 개념</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\.NAT.txt">
+      <Filter>5. Network\0. 기본 개념</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\클라이언트 예측.txt">
+      <Filter>5. Network\0. 기본 개념</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\서버 권한.txt">
+      <Filter>5. Network\0. 기본 개념</Filter>
+    </Text>
+    <Text Include="..\TXT_NETWORK\동기화 보간.txt">
+      <Filter>5. Network\1. 프로그래밍 문제</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\메모리 관리 방법.txt">
+      <Filter>0. C++\0. C/C++</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\복사생성자.txt">
+      <Filter>0. C++\2. 클래스</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\TXT_CS\image\인터럽트 처리 과정.png">
