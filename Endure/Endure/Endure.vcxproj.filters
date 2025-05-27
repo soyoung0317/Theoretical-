@@ -144,7 +144,7 @@
     <Text Include="..\TXT_STL\0-1. 상등성과 동등성.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="..\TXT_STL\6-1. 범위기반 for문.txt">
+    <Text Include="..\TXT_STL\0-4. 범위기반 for문.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
     <Text Include="..\TXT_STL\0-3. 이진탐색.txt">
@@ -570,19 +570,19 @@
     <Text Include="..\TXT_STL\2-3. 이진탐색 트리.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="..\TXT_STL\6-2. 알고리즘.txt">
+    <Text Include="..\TXT_STL\6-1. %28Algo%29 알고리즘.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="..\TXT_STL\1-1. (시퀀스)array.txt">
+    <Text Include="..\TXT_STL\1-1. %28시퀀스%29 array.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="..\TXT_STL\1-2. (시퀀스)vector.txt">
+    <Text Include="..\TXT_STL\1-2. %28시퀀스%29 vector.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="..\TXT_STL\1-3. (시퀀스)list.txt">
+    <Text Include="..\TXT_STL\1-3. %28시퀀스%29 list.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="..\TXT_STL\1-4. (시퀀스)deque.txt">
+    <Text Include="..\TXT_STL\1-4. %28시퀀스%29 deque.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
     <Text Include="..\TXT_STL\1-5. (시퀀스) forward_list.txt">
@@ -609,10 +609,10 @@
     <Text Include="..\TXT_STL\3-3. (비정렬) unordered_set.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="..\TXT_STL\4-1. (어댑터)queue.txt">
+    <Text Include="..\TXT_STL\4-1. %28어댑터%29 queue.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
-    <Text Include="..\TXT_STL\4-2. (어댑터)stack.txt">
+    <Text Include="..\TXT_STL\4-3. %28어댑터%29 stack.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
     <Text Include="..\TXT_STL\5-0. (정렬)sort.txt">
@@ -734,6 +734,15 @@
     </Text>
     <Text Include="..\TXT_CC++\복사생성자.txt">
       <Filter>0. C++\2. 클래스</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\IEEE.txt">
+      <Filter>0. C++\6. 데이터 타입</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\4-2. (어댑터) priority que.txt">
+      <Filter>1. STL, Data Struct</Filter>
+    </Text>
+    <Text Include="..\TXT_STL\6-1. %28Algo%29 최소비용신장트리.txt">
+      <Filter>1. STL, Data Struct</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
