@@ -341,6 +341,7 @@
     <Text Include="..\TXT_UNREAL\버그 및 이슈트래킹.txt" />
     <Text Include="..\TXT_UNREAL\신규기능(Nanite, Lumen).txt" />
     <Text Include="..\TXT_UNREAL\이벤트_델리게이트.txt" />
+    <Text Include="sort.txt" />
     <Text Include="전위연산 후위연산.txt" />
   </ItemGroup>
   <ItemGroup>

@@ -744,6 +744,9 @@
     <Text Include="..\TXT_STL\6-1. %28Algo%29 최소비용신장트리.txt">
       <Filter>1. STL, Data Struct</Filter>
     </Text>
+    <Text Include="sort.txt">
+      <Filter>6. Algorithm</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\TXT_CS\image\인터럽트 처리 과정.png">
