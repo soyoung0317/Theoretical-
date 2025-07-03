@@ -89,9 +89,6 @@
     <Filter Include="7. 게임수학">
       <UniqueIdentifier>{425e1edc-a857-4fba-acfa-3d095bdd625d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="8. 인성 문제">
-      <UniqueIdentifier>{ce566ade-88eb-4a8e-acfe-8cf3d3cbc787}</UniqueIdentifier>
-    </Filter>
     <Filter Include="5. Network\0. 기본 개념">
       <UniqueIdentifier>{a38c9dd5-12db-4c22-aa8c-93e07b49b81b}</UniqueIdentifier>
     </Filter>
@@ -100,6 +97,9 @@
     </Filter>
     <Filter Include="5. Network\2. 네트워크 최적화 및 안정성">
       <UniqueIdentifier>{be964e17-b6e3-403b-8e29-b8e865d55c69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="8. Documents">
+      <UniqueIdentifier>{ce566ade-88eb-4a8e-acfe-8cf3d3cbc787}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -295,9 +295,6 @@
       <Filter>0. C++\0. C/C++</Filter>
     </Text>
     <Text Include="..\TXT_CC++\constexpr.txt">
-      <Filter>0. C++\8. 그외</Filter>
-    </Text>
-    <Text Include="전위연산 후위연산.txt">
       <Filter>0. C++\8. 그외</Filter>
     </Text>
     <Text Include="..\TXT_CC++\RAII.txt">
@@ -544,7 +541,7 @@
       <Filter>3. DirectX\6. 프로젝트 관련</Filter>
     </Text>
     <Text Include="..\TXT_DOC\All.txt">
-      <Filter>8. 인성 문제</Filter>
+      <Filter>8. Documents</Filter>
     </Text>
     <Text Include="..\TXT_MATH\internal and external.txt">
       <Filter>7. 게임수학</Filter>
@@ -746,6 +743,12 @@
     </Text>
     <Text Include="sort.txt">
       <Filter>6. Algorithm</Filter>
+    </Text>
+    <Text Include="..\TXT_DOC\대답리스트.txt">
+      <Filter>8. Documents</Filter>
+    </Text>
+    <Text Include="..\TXT_CC++\전위연산 후위연산.txt">
+      <Filter>0. C++\8. 그외</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>

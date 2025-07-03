@@ -163,6 +163,7 @@
     <Text Include="..\TXT_CC++\메모리 관리 방법.txt" />
     <Text Include="..\TXT_CC++\메모리 누수.txt" />
     <Text Include="..\TXT_CC++\복사생성자.txt" />
+    <Text Include="..\TXT_CC++\전위연산 후위연산.txt" />
     <Text Include="..\TXT_CC++\추상클래스.txt" />
     <Text Include="..\TXT_CC++\템플릿.txt" />
     <Text Include="..\TXT_CC++\표준 라이브러리 알고리즘.txt" />
@@ -272,6 +273,7 @@
     <Text Include="..\TXT_DIRECTX\2-12. Outline.txt" />
     <Text Include="..\TXT_DIRECTX\1-8. w값.txt" />
     <Text Include="..\TXT_DOC\All.txt" />
+    <Text Include="..\TXT_DOC\대답리스트.txt" />
     <Text Include="..\TXT_MATH\angle functions.txt" />
     <Text Include="..\TXT_MATH\Euler Angle &amp; Quaternion.txt" />
     <Text Include="..\TXT_MATH\internal and external.txt" />
@@ -342,7 +344,6 @@
     <Text Include="..\TXT_UNREAL\신규기능(Nanite, Lumen).txt" />
     <Text Include="..\TXT_UNREAL\이벤트_델리게이트.txt" />
     <Text Include="sort.txt" />
-    <Text Include="전위연산 후위연산.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\TXT_CS\image\Cashe Memory.png" />

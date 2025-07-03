@@ -32,7 +32,6 @@ A.
 
 	3. Call by Pointer (포인터 전달)
 		변수의 주소를 전달
-
 		1) 특징
 			- Call by Reference와 동일하게 원본 값을 수정할 수 있음.
 			- NULL 포인터를 받을 수 있으므로, 유효성 검사 필요.
