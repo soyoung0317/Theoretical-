@@ -744,9 +744,6 @@
     <Text Include="sort.txt">
       <Filter>6. Algorithm</Filter>
     </Text>
-    <Text Include="..\TXT_DOC\대답리스트.txt">
-      <Filter>8. Documents</Filter>
-    </Text>
     <Text Include="..\TXT_CC++\전위연산 후위연산.txt">
       <Filter>0. C++\8. 그외</Filter>
     </Text>

@@ -273,7 +273,6 @@
     <Text Include="..\TXT_DIRECTX\2-12. Outline.txt" />
     <Text Include="..\TXT_DIRECTX\1-8. w값.txt" />
     <Text Include="..\TXT_DOC\All.txt" />
-    <Text Include="..\TXT_DOC\대답리스트.txt" />
     <Text Include="..\TXT_MATH\angle functions.txt" />
     <Text Include="..\TXT_MATH\Euler Angle &amp; Quaternion.txt" />
     <Text Include="..\TXT_MATH\internal and external.txt" />

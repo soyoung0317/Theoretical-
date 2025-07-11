@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_DOC\\\uB300\uB2F5\uB9AC\uC2A4\uD2B8.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_DOC\\\uB300\uB2F5\uB9AC\uC2A4\uD2B8.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_DOC\\All.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_DOC\\All.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_TOTAL\\CC\u002B\u002B.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -327,10 +327,6 @@
       "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_CC\u002B\u002B\\IEEE.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:Endure\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\1-1. (\uC2DC\uD000\uC2A4) array.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AD847C34-A2EC-41E7-AD7A-A8BA66FA5A6F}|Endure\\Endure.vcxproj|solutionrelative:TXT_STL\\1-1. (\uC2DC\uD000\uC2A4) array.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -566,20 +562,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
-              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
-              "RelativeToolTip": "TXT_CC\u002B\u002B\\\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-03T19:53:33.18Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 13,
@@ -642,19 +626,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\uB300\uB2F5\uB9AC\uC2A4\uD2B8.txt",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_DOC\\\uB300\uB2F5\uB9AC\uC2A4\uD2B8.txt",
-              "RelativeDocumentMoniker": "TXT_DOC\\\uB300\uB2F5\uB9AC\uC2A4\uD2B8.txt",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_DOC\\\uB300\uB2F5\uB9AC\uC2A4\uD2B8.txt",
-              "RelativeToolTip": "TXT_DOC\\\uB300\uB2F5\uB9AC\uC2A4\uD2B8.txt",
-              "ViewState": "AgIAADwAAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-03T17:59:34.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "SOLID \uC6D0\uCE59.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\SOLID \uC6D0\uCE59.txt",
@@ -703,15 +674,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "All.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_DOC\\All.txt",
               "RelativeDocumentMoniker": "TXT_DOC\\All.txt",
               "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_DOC\\All.txt",
               "RelativeToolTip": "TXT_DOC\\All.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-03T13:29:26.165Z"
+              "WhenOpened": "2025-07-03T13:29:26.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Main.cpp",
+              "RelativeDocumentMoniker": "Endure\\Main.cpp",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Main.cpp",
+              "RelativeToolTip": "Endure\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T21:56:52.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
+              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
+              "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
+              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
+              "RelativeToolTip": "TXT_CC\u002B\u002B\\\uC720\uB2C8\uD2F0 \uBE4C\uB4DC.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-03T19:53:33.18Z"
             },
             {
               "$type": "Document",
@@ -1471,18 +1468,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Main.cpp",
-              "RelativeDocumentMoniker": "Endure\\Main.cpp",
-              "ToolTip": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\Endure\\Main.cpp",
-              "RelativeToolTip": "Endure\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T21:56:52.009Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 75,
               "Title": "explicit.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\explicit.txt",
@@ -1531,7 +1516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 81,
               "Title": "1-1. (\uC2DC\uD000\uC2A4) array.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\1-1. (\uC2DC\uD000\uC2A4) array.txt",
               "RelativeDocumentMoniker": "TXT_STL\\1-1. (\uC2DC\uD000\uC2A4) array.txt",
@@ -1543,7 +1528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 83,
               "Title": "7-4. (\uACE0\uAE09) \uC138\uADF8\uBA3C\uD2B8 \uD2B8\uB9AC.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\7-4. (\uACE0\uAE09) \uC138\uADF8\uBA3C\uD2B8 \uD2B8\uB9AC.txt",
               "RelativeDocumentMoniker": "TXT_STL\\7-4. (\uACE0\uAE09) \uC138\uADF8\uBA3C\uD2B8 \uD2B8\uB9AC.txt",
@@ -1579,7 +1564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 86,
               "Title": "1-8. \uBE44\uAD50 \uBD84\uC11D.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\1-8. \uBE44\uAD50 \uBD84\uC11D.txt",
               "RelativeDocumentMoniker": "TXT_STL\\1-8. \uBE44\uAD50 \uBD84\uC11D.txt",
@@ -1591,7 +1576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 87,
               "Title": "0-0. \uCEE8\uD14C\uC774\uB108.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\0-0. \uCEE8\uD14C\uC774\uB108.txt",
               "RelativeDocumentMoniker": "TXT_STL\\0-0. \uCEE8\uD14C\uC774\uB108.txt",
@@ -1603,7 +1588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 82,
               "Title": "6-1. (Algo) \uC54C\uACE0\uB9AC\uC998.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\6-1. (Algo) \uC54C\uACE0\uB9AC\uC998.txt",
               "RelativeDocumentMoniker": "TXT_STL\\6-1. (Algo) \uC54C\uACE0\uB9AC\uC998.txt",
@@ -1615,7 +1600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 84,
               "Title": "7-3. (\uACE0\uAE09) BST.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\7-3. (\uACE0\uAE09) BST.txt",
               "RelativeDocumentMoniker": "TXT_STL\\7-3. (\uACE0\uAE09) BST.txt",
@@ -1627,7 +1612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 88,
               "Title": "1-3. (\uC2DC\uD000\uC2A4) list.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\1-3. (\uC2DC\uD000\uC2A4) list.txt",
               "RelativeDocumentMoniker": "TXT_STL\\1-3. (\uC2DC\uD000\uC2A4) list.txt",
@@ -1639,7 +1624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 85,
               "Title": "0-4. \uBC94\uC704\uAE30\uBC18 for\uBB38.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\0-4. \uBC94\uC704\uAE30\uBC18 for\uBB38.txt",
               "RelativeDocumentMoniker": "TXT_STL\\0-4. \uBC94\uC704\uAE30\uBC18 for\uBB38.txt",
@@ -1651,7 +1636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 89,
               "Title": "1-4. (\uC2DC\uD000\uC2A4) deque.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\1-4. (\uC2DC\uD000\uC2A4) deque.txt",
               "RelativeDocumentMoniker": "TXT_STL\\1-4. (\uC2DC\uD000\uC2A4) deque.txt",
@@ -1663,7 +1648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 90,
               "Title": "1-2. (\uC2DC\uD000\uC2A4) vector.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\1-2. (\uC2DC\uD000\uC2A4) vector.txt",
               "RelativeDocumentMoniker": "TXT_STL\\1-2. (\uC2DC\uD000\uC2A4) vector.txt",
@@ -1675,7 +1660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 91,
               "Title": "7-2. (\uACE0\uAE09) \uD2B8\uB77C\uC774.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\7-2. (\uACE0\uAE09) \uD2B8\uB77C\uC774.txt",
               "RelativeDocumentMoniker": "TXT_STL\\7-2. (\uACE0\uAE09) \uD2B8\uB77C\uC774.txt",
@@ -1687,7 +1672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 92,
               "Title": "7-1. (\uACE0\uAE09) \uD799.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\7-1. (\uACE0\uAE09) \uD799.txt",
               "RelativeDocumentMoniker": "TXT_STL\\7-1. (\uACE0\uAE09) \uD799.txt",
@@ -1699,7 +1684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 93,
               "Title": "5-2. (\uC815\uB82C) \uCEE4\uC2A4\uD140 \uC815\uB82C.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\5-2. (\uC815\uB82C) \uCEE4\uC2A4\uD140 \uC815\uB82C.txt",
               "RelativeDocumentMoniker": "TXT_STL\\5-2. (\uC815\uB82C) \uCEE4\uC2A4\uD140 \uC815\uB82C.txt",
@@ -1711,7 +1696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 94,
               "Title": "5-0. (\uC815\uB82C)sort.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\5-0. (\uC815\uB82C)sort.txt",
               "RelativeDocumentMoniker": "TXT_STL\\5-0. (\uC815\uB82C)sort.txt",
@@ -1723,7 +1708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 95,
               "Title": "4-3. (\uC5B4\uB311\uD130) stack.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\4-3. (\uC5B4\uB311\uD130) stack.txt",
               "RelativeDocumentMoniker": "TXT_STL\\4-3. (\uC5B4\uB311\uD130) stack.txt",
@@ -1735,7 +1720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 96,
               "Title": "3-3. (\uBE44\uC815\uB82C) unordered_set.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\3-3. (\uBE44\uC815\uB82C) unordered_set.txt",
               "RelativeDocumentMoniker": "TXT_STL\\3-3. (\uBE44\uC815\uB82C) unordered_set.txt",
@@ -1747,7 +1732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 97,
               "Title": "0-3. \uC2DC\uC2A4\uD15C \uCF5C.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CS\\0-3. \uC2DC\uC2A4\uD15C \uCF5C.txt",
               "RelativeDocumentMoniker": "TXT_CS\\0-3. \uC2DC\uC2A4\uD15C \uCF5C.txt",
@@ -1759,7 +1744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 99,
               "Title": "\uACB0\uD569\uB3C4.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uACB0\uD569\uB3C4.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uACB0\uD569\uB3C4.txt",
@@ -1771,7 +1756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 103,
               "Title": "\uD074\uB798\uC2A4\uC640 \uC778\uC2A4\uD134\uC2A4.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD074\uB798\uC2A4\uC640 \uC778\uC2A4\uD134\uC2A4.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uD074\uB798\uC2A4\uC640 \uC778\uC2A4\uD134\uC2A4.txt",
@@ -1783,7 +1768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 98,
               "Title": "2-5. \uCEE8\uD14D\uC2A4\uD2B8 \uC2A4\uC704\uCE6D.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CS\\2-5. \uCEE8\uD14D\uC2A4\uD2B8 \uC2A4\uC704\uCE6D.txt",
               "RelativeDocumentMoniker": "TXT_CS\\2-5. \uCEE8\uD14D\uC2A4\uD2B8 \uC2A4\uC704\uCE6D.txt",
@@ -1795,7 +1780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 104,
               "Title": "\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC2A4\uB9C8\uD2B8 \uD3EC\uC778\uD130.txt",
@@ -1807,7 +1792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 102,
               "Title": "\uC778\uD130\uD398\uC774\uC2A4, \uB2E4\uC911\uC0C1\uC18D.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC778\uD130\uD398\uC774\uC2A4, \uB2E4\uC911\uC0C1\uC18D.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC778\uD130\uD398\uC774\uC2A4, \uB2E4\uC911\uC0C1\uC18D.txt",
@@ -1819,7 +1804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 101,
               "Title": "\uC624\uBC84\uB85C\uB529\uACFC \uC624\uBC84\uB77C\uC774\uB529.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC624\uBC84\uB85C\uB529\uACFC \uC624\uBC84\uB77C\uC774\uB529.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC624\uBC84\uB85C\uB529\uACFC \uC624\uBC84\uB77C\uC774\uB529.txt",
@@ -1831,7 +1816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 100,
               "Title": "\uC0DD\uC131\uC790\uC640 \uC18C\uBA78\uC790.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC0DD\uC131\uC790\uC640 \uC18C\uBA78\uC790.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC0DD\uC131\uC790\uC640 \uC18C\uBA78\uC790.txt",
@@ -1843,7 +1828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 105,
               "Title": "\uC678\uC0BD.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uC678\uC0BD.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uC678\uC0BD.txt",
@@ -1855,7 +1840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 106,
               "Title": "\uB3D9\uAE30\uD654.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uB3D9\uAE30\uD654.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uB3D9\uAE30\uD654.txt",
@@ -1867,7 +1852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 107,
               "Title": "\uB3D9\uAE30\uD654 \uBCF4\uAC04.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uB3D9\uAE30\uD654 \uBCF4\uAC04.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uB3D9\uAE30\uD654 \uBCF4\uAC04.txt",
@@ -1879,7 +1864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 108,
               "Title": "\uC11C\uBC84 \uAD8C\uD55C.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uC11C\uBC84 \uAD8C\uD55C.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uC11C\uBC84 \uAD8C\uD55C.txt",
@@ -1891,7 +1876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 109,
               "Title": "\uD074\uB77C\uC774\uC5B8\uD2B8 \uC608\uCE21.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uD074\uB77C\uC774\uC5B8\uD2B8 \uC608\uCE21.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uD074\uB77C\uC774\uC5B8\uD2B8 \uC608\uCE21.txt",
@@ -1903,7 +1888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 110,
               "Title": "\uD328\uD0B7.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uD328\uD0B7.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uD328\uD0B7.txt",
@@ -1915,7 +1900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 111,
               "Title": "\uBE45 \uC5D4\uB514\uC548\uACFC \uB9AC\uD2C0 \uC5D4\uB514\uC548.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uBE45 \uC5D4\uB514\uC548\uACFC \uB9AC\uD2C0 \uC5D4\uB514\uC548.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uBE45 \uC5D4\uB514\uC548\uACFC \uB9AC\uD2C0 \uC5D4\uB514\uC548.txt",
@@ -1927,7 +1912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 112,
               "Title": "\uBE44\uD2B8\uC640 \uBC14\uC774\uD2B8.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uBE44\uD2B8\uC640 \uBC14\uC774\uD2B8.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uBE44\uD2B8\uC640 \uBC14\uC774\uD2B8.txt",
@@ -1939,7 +1924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 117,
               "Title": "\uD074\uB77C\uC774\uC5B8\uD2B8-\uC11C\uBC84.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uD074\uB77C\uC774\uC5B8\uD2B8-\uC11C\uBC84.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uD074\uB77C\uC774\uC5B8\uD2B8-\uC11C\uBC84.txt",
@@ -1951,7 +1936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 116,
               "Title": "\uB124\uD2B8\uC6CC\uD06C.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uB124\uD2B8\uC6CC\uD06C.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uB124\uD2B8\uC6CC\uD06C.txt",
@@ -1963,7 +1948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 115,
               "Title": "\uC18C\uCF13.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uC18C\uCF13.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uC18C\uCF13.txt",
@@ -1975,7 +1960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 114,
               "Title": "\uC9C0\uC5F0(Latency).txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\\uC9C0\uC5F0(Latency).txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\\uC9C0\uC5F0(Latency).txt",
@@ -1987,7 +1972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 113,
               "Title": ".NAT.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\.NAT.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\.NAT.txt",
@@ -1999,7 +1984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 118,
               "Title": "TCP, UDP.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\TCP, UDP.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\TCP, UDP.txt",
@@ -2011,7 +1996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 119,
               "Title": "ACK, SYN.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_NETWORK\\ACK, SYN.txt",
               "RelativeDocumentMoniker": "TXT_NETWORK\\ACK, SYN.txt",
@@ -2023,7 +2008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 121,
               "Title": "\uB124\uD2B8\uC6CC\uD06C \uD328\uD0B7.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_UNREAL\\\uB124\uD2B8\uC6CC\uD06C \uD328\uD0B7.txt",
               "RelativeDocumentMoniker": "TXT_UNREAL\\\uB124\uD2B8\uC6CC\uD06C \uD328\uD0B7.txt",
@@ -2035,7 +2020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 120,
               "Title": "Async, \uBE44\uB3D9\uAE30.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_UNREAL\\Async, \uBE44\uB3D9\uAE30.txt",
               "RelativeDocumentMoniker": "TXT_UNREAL\\Async, \uBE44\uB3D9\uAE30.txt",
@@ -2047,7 +2032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 122,
               "Title": "\uBA38\uD130\uB9AC\uC5BC\uACFC \uC170\uC774\uB354.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_UNREAL\\\uBA38\uD130\uB9AC\uC5BC\uACFC \uC170\uC774\uB354.txt",
               "RelativeDocumentMoniker": "TXT_UNREAL\\\uBA38\uD130\uB9AC\uC5BC\uACFC \uC170\uC774\uB354.txt",
@@ -2059,7 +2044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 123,
               "Title": "\uC2E0\uADDC\uAE30\uB2A5(Nanite, Lumen).txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_UNREAL\\\uC2E0\uADDC\uAE30\uB2A5(Nanite, Lumen).txt",
               "RelativeDocumentMoniker": "TXT_UNREAL\\\uC2E0\uADDC\uAE30\uB2A5(Nanite, Lumen).txt",
@@ -2071,7 +2056,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 124,
               "Title": "\uBC84\uADF8 \uBC0F \uC774\uC288\uD2B8\uB798\uD0B9.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_UNREAL\\\uBC84\uADF8 \uBC0F \uC774\uC288\uD2B8\uB798\uD0B9.txt",
               "RelativeDocumentMoniker": "TXT_UNREAL\\\uBC84\uADF8 \uBC0F \uC774\uC288\uD2B8\uB798\uD0B9.txt",
@@ -2083,7 +2068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 125,
               "Title": "0-1. \uC0C1\uB4F1\uC131\uACFC \uB3D9\uB4F1\uC131.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_STL\\0-1. \uC0C1\uB4F1\uC131\uACFC \uB3D9\uB4F1\uC131.txt",
               "RelativeDocumentMoniker": "TXT_STL\\0-1. \uC0C1\uB4F1\uC131\uACFC \uB3D9\uB4F1\uC131.txt",
@@ -2095,7 +2080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 126,
               "Title": "static.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\static.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\static.txt",
@@ -2107,7 +2092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 127,
               "Title": "\uAC1C\uD589.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uAC1C\uD589.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uAC1C\uD589.txt",
@@ -2119,7 +2104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 129,
               "Title": "\uD568\uC218\uD638\uCD9C\uADDC\uC57D.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD568\uC218\uD638\uCD9C\uADDC\uC57D.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uD568\uC218\uD638\uCD9C\uADDC\uC57D.txt",
@@ -2131,7 +2116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 128,
               "Title": "\uC720\uB2C8\uD3FC \uCD08\uAE30\uD654.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC720\uB2C8\uD3FC \uCD08\uAE30\uD654.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC720\uB2C8\uD3FC \uCD08\uAE30\uD654.txt",
@@ -2143,7 +2128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 130,
               "Title": "\uC804\uBC29\uC120\uC5B8.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC804\uBC29\uC120\uC5B8.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC804\uBC29\uC120\uC5B8.txt",
@@ -2155,7 +2140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 131,
               "Title": "_volatile.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\_volatile.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\_volatile.txt",
@@ -2167,7 +2152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 133,
               "Title": "\uC774\uB3D9 \uC758\uBBF8\uB860.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uC774\uB3D9 \uC758\uBBF8\uB860.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uC774\uB3D9 \uC758\uBBF8\uB860.txt",
@@ -2179,7 +2164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 132,
               "Title": "\uD45C\uC900 \uB77C\uC774\uBE0C\uB7EC\uB9AC \uC54C\uACE0\uB9AC\uC998.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD45C\uC900 \uB77C\uC774\uBE0C\uB7EC\uB9AC \uC54C\uACE0\uB9AC\uC998.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uD45C\uC900 \uB77C\uC774\uBE0C\uB7EC\uB9AC \uC54C\uACE0\uB9AC\uC998.txt",
@@ -2191,7 +2176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 134,
               "Title": "\uD15C\uD50C\uB9BF.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\\uD15C\uD50C\uB9BF.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\\uD15C\uD50C\uB9BF.txt",
@@ -2203,7 +2188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 135,
               "Title": "move\uC640 foward.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CC\u002B\u002B\\move\uC640 foward.txt",
               "RelativeDocumentMoniker": "TXT_CC\u002B\u002B\\move\uC640 foward.txt",
@@ -2215,7 +2200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 136,
               "Title": "4-1. atomic.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CS\\4-1. atomic.txt",
               "RelativeDocumentMoniker": "TXT_CS\\4-1. atomic.txt",
@@ -2227,7 +2212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 137,
               "Title": "6-1. \uBA54\uBAA8\uB9AC\uAD00\uB9AC.txt",
               "DocumentMoniker": "C:\\Users\\chu03\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Git\\STUDY\\Endure\\TXT_CS\\6-1. \uBA54\uBAA8\uB9AC\uAD00\uB9AC.txt",
               "RelativeDocumentMoniker": "TXT_CS\\6-1. \uBA54\uBAA8\uB9AC\uAD00\uB9AC.txt",
